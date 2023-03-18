@@ -1,0 +1,16 @@
+{
+    "docs":[
+        {
+            "description": "fazer feira",
+            "active": true
+        },
+        {
+            "description": "artigo couchDB",
+            "active": true
+        },
+        {
+            "description": "petShop",
+            "active": true
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+@server = http://admin:couchdb@127.0.0.1:5984/contatos
+
+### Criar banco de dados
+PUT {{server}}
+
+### Inserir dados
+POST {{server}}/_bulk_docs
+Content-Type: application/json
+
+< ./contatos.json
+### visualisar dados
+
+GET {{server}}/_all_docs?include_docs=true
+
+### deletar db contatos
+DELETE {{server}}
+
+### consulta documento de desing
+GET {{server}}/_design/consultas-basicas
+
+### extrair os dados com a consulta
+GET {{server}}/_design/consultas-basicas/_view/porNome
+
+### extrair os dados com a consulta com limit 5 (Retorna os 5 primeiros)
+GET {{server}}/_design/consultas-basicas/_view/porNome?limit=5
+
+### extrair os dados com a consulta com retirando os 10 primeiros registros
+GET {{server}}/_design/consultas-basicas/_view/porNome?skip=10
+
+### extrair os dados com a consulta por key
+GET {{server}}/_design/consultas-basicas/_view/porNome?key="Maria Paula"&include_docs=true
+
+### extrair os dados da consulta cpm paginação 
+GET {{server}}/_design/consultas-basicas/_view/porNome?startkey="Laís Nunes"&limit=5&skip=1&include_docs=true
+
+### =================== Realizar uma consulta que separe por tipo (pessoal, profissional)
+GET {{server}}/_design/consultas-basicas/_view/porTipo
+
+### ================= consultas avançadas =================
+
+### consulta documento de desing
+GET {{server}}/_design/consultas-avancadas
+
+### retornar valores
+GET {{server}}/_design/consultas-avancadas/_view/porTipo?include_docs=true
+
+### retornar usando o filtro da chave key
+GET {{server}}/_design/consultas-avancadas/_view/porTipo?key="Profissional"&include_docs=true
+
+### Consulta usando dois parametros --- Tipo e nome ---
+GET {{server}}/_design/consultas-avancadas/_view/porTipoNome?include_docs=true
+
+### somente or tipo 
+GET {{server}}/_design/consultas-avancadas/_view/porTipoNome?include_docs=true&startkey=["Pessoal", "L"]&endkey=["Pessoal", "M"]
+
+### usando o reduce / count que retorna a qty total
+GET {{server}}/_design/consultas-avancadas/_view/porTipo
+
+### usando o reduce / count que retorna a qty agrupada
+GET {{server}}/_design/consultas-avancadas/_view/porTipo?group=true
+
+### usando o reduce / count mas sem usar o reduce
+GET {{server}}/_design/consultas-avancadas/_view/porTipo?reduce=false
+
+### usando o reduce com dois parametros na consulta, onde a contagem é realizada considerando 2 params
+GET {{server}}/_design/consultas-avancadas/_view/porTipo?group=true
+
+### usando o reduce com dois parametros na consulta, mas com contagem por level 
+GET {{server}}/_design/consultas-avancadas/_view/porTipo?group=true&group_level=0
+
+###
+GET {{server}}/_design/consultas-avancadas/_view/porTipo?group=true&group_level=1
+
+###
+GET {{server}}/_design/consultas-avancadas/_view/porTipo?group=true&group_level=2
+
+### auterar a view usando uma requisição http
+
+// Primeiramente é enviado a requição
+
+GET {{server}}/_design/consultas-avancadas
+
+// retorno:
+# {
+#   "_id": "_design/consultas-avancadas",
+#   "_rev": "4-5809d43ab5a5a891704ba51fa037d619", < ----- aqui >
+#   "views": {
+#     "porTipo": {
+#       "map": "function (doc) {\n  emit([doc.tipo, doc.sexo], 1);\n}",
+#       "reduce": "_count"
+#     },
+#     "porTipoNome": {
+#       "map": "function (doc) {\n  if(doc.tipo && doc.nome) {\n    emit([doc.tipo, doc.nome], 1);\n  }\n}"
+#     }
+#   },
+#   "language": "javascript"
+# }
+
+###
+// da requição sõ utilizados os seguintes dados para realizar as auterações na view
+
+PUT {{server}}/_design/consultas-avancadas
+If-Match: 4-5809d43ab5a5a891704ba51fa037d619
+
+{
+  "views": {
+    "porTipo": {
+      "map": "function (doc) {\n  emit([doc.tipo, doc.sexo], 1);\n}",
+      "reduce": "_approx_count_distinct"
+    },
+    "porTipoNome": {
+      "map": "function (doc) {\n  if(doc.tipo && doc.nome) {\n    emit([doc.tipo, doc.nome], 1);\n  }\n}"
+    }
+  },
+  "language": "javascript"
+}
+
+###
+GET {{server}}/_design/consultas-avancadas/_view/porTipo
+
+###
+# utilizando a função sum
+PUT {{server}}/_design/consultas-avancadas
+If-Match: 5-a2de6ab4cd034318b907abea420defbe
+
+{
+    "views": {
+    "porTipo": {
+      "map": "function (doc) {\n  emit([doc.tipo, doc.sexo], 1);\n}",
+      "reduce": "_sum"
+    },
+    "porTipoNome": {
+      "map": "function (doc) {\n  if(doc.tipo && doc.nome) {\n    emit([doc.tipo, doc.nome], 1);\n  }\n}"
+    }
+  },
+  "language": "javascript"
+}
+
+###
+GET {{server}}/_design/consultas-avancadas/_view/porTipo
+
+###
+# utilizando a função sum para somar a idade
+PUT {{server}}/_design/consultas-avancadas
+If-Match: 7-7e18f770489fa0863cdc973eb89dc827
+
+{
+    "views": {
+    "porTipo": {
+      "map": "function (doc) {\n  emit([doc.tipo, doc.sexo], doc.idade);\n}",
+      "reduce": "_sum"
+    },
+    "porTipoNome": {
+      "map": "function (doc) {\n  if(doc.tipo && doc.nome) {\n    emit([doc.tipo, doc.nome], 1);\n  }\n}"
+    }
+  },
+  "language": "javascript"
+}
+
+###
+GET {{server}}/_design/consultas-avancadas/_view/porTipo
+
+###
+# utilizando a função sum para stats a idade
+PUT {{server}}/_design/consultas-avancadas
+If-Match: 8-9f9d36d4157c482091e135ef22e80226
+
+{
+    "views": {
+    "porTipo": {
+      "map": "function (doc) {\n  emit([doc.tipo, doc.sexo], doc.idade);\n}",
+      "reduce": "_stats"
+    },
+    "porTipoNome": {
+      "map": "function (doc) {\n  if(doc.tipo && doc.nome) {\n    emit([doc.tipo, doc.nome], 1);\n  }\n}"
+    }
+  },
+  "language": "javascript"
+}
+
+###
+GET {{server}}/_design/consultas-avancadas/_view/porTipo
+
+
+
+

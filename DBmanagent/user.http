@@ -1,0 +1,107 @@
+@server = http://admin:couchdb@127.0.0.1:5984
+
+# O couchDB divide os usuários em deois grupos:
+# * Administrador de banco de dados
+# autorizações: Incluir, Consultar, Alterar e Excluir e manipulação de docs de design
+# * Membros
+# autorizações: Incluir, Consultar, Alterar e Excluir
+
+### Criar um usuário
+PUT {{server}}/_users/org.couchdb.user:carlos
+Content-Type: application/json
+
+{
+    "name": "carlos",
+    "password": "1234",
+    "roles": [],
+    "type": "user"
+}
+
+### verificar novo usuário
+GET {{server}}/_users/org.couchdb.user:julia
+
+### auterar a senha do usuário
+PUT {{server}}/_users/org.couchdb.user:joao
+If-Match: 1-113a2dcd3d14635d9f2e5b25a83ab928
+
+{
+    "name": "joao",
+    "password": "4321",
+    "roles": [],
+    "type": "user"
+}
+
+### consultar usuarios cadastrados
+GET {{server}}/_users/_all_docs?include_docs=true
+
+### deletar um usuario
+DELETE {{server}}/_users?org.couchdb.user:pedro
+If-Match: 1-fad62076a20e48a60bc4e7f87f217bb8
+
+# Assosciando um usuario a um banco de dados especifico
+### verificar os dbs
+GET {{server}}/_all_dbs
+
+### verificar as regras de segurança de um bd
+GET {{server}}/tasks/_security
+
+### mudar a regra de um usuário
+PUT http://julia:1234@127.0.0.1:5984/tasks/_security
+Content-Type: application/json
+
+{
+  "members": {
+    "roles": [
+      "_admin"
+    ],
+    "names": [
+      "joao"
+    ]
+  },
+  "admins": {
+    "roles": [
+      "_admin"
+    ],
+    "names": [
+      "julia",
+      "carlos"
+    ]
+  }
+}
+
+# definir regra somente leitura para um usuario
+
+### verificar regra atual do usuario
+GET {{server}}/_users/org.couchdb.user:carlos
+
+# agora devemos icluir a regra na base de usuarios para o usuário desejado
+# após aplicar a regra para o usuário, deve ser aplicado a regra na base que o usuário tem acesso
+# para isso acessando o menu dbs, e clicar no nome da base. depois em new document
+# passo 1 => atribuir o valor para a propriedade -id do doc aberto:
+# passo 2 => inserir a propriedade validate_doc_update onde é criado uma função que verifica as regras do usuário
+
+### apos realizar as modificações, fazer uma busca para verificar se a leitura esta sendo realziada corretamente
+GET http://carlos:1234@127.0.0.1:5984/tasks/_all_docs?include_docs=true
+
+### se o resultado for positiivo, agora vamos verificar se o usuario pode criar um documento
+
+# primeiramente gerar um id usando o uuid do couchdb
+GET {{server}}/_uuids
+
+### agora usamos o id gerado e vamos inserir uma nova atividade em tasks
+PUT http://carlos:1234@127.0.0.1:5984/tasks/e32f3d5d2efc3585b02dd0566b005d3b
+Content-Type: application/json
+
+{
+    "description": "take a dog on petShop",
+    "active": true
+}
+
+### só para garantir vamos fazer um doble check e testar a inserção com outro usuário
+PUT http://julia:1234@127.0.0.1:5984/tasks/e32f3d5d2efc3585b02dd0566b005d3b
+Content-Type: application/json
+
+{
+    "description": "take a dog on petShop",
+    "active": true
+}

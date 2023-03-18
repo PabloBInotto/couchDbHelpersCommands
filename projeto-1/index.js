@@ -1,0 +1,1 @@
+console.log('Olá, CouchDB 3.0!')

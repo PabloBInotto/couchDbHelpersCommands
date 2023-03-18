@@ -1,0 +1,19 @@
+{
+    "name": "Computer Desktop",
+    "price": 1500.12,
+    "storage": 100,
+    "daily_delivery": true,
+    "packing_contents": [
+        "CPU", "MANUAL", "MOUSE", "KEYBOARD", "SPEACKERS", "MONITOR"
+    ],
+    "garanties": {
+        "store": {
+            "time": 7,
+            "period": "day"
+        },
+        "factory": {
+            "time": 1,
+            "period": "year"
+        }
+    }
+}

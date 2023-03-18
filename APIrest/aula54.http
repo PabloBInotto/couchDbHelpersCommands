@@ -1,0 +1,54 @@
+### variaveis
+@produtos = http://admin:couchdb@localhost:5984/produtos
+
+### incluir produto 1
+PUT {{produtos}}/1
+Content-Type: : application/json
+
+{
+    "name": "LapTop XI35",
+    "price": 25000.54,
+    "storage": 5
+}
+
+### incluir produto 2
+PUT {{produtos}}/2
+Content-Type: : application/json
+
+{
+    "name": "Notebook",
+    "price": 2000.74,
+    "storage": 51
+}
+
+### verifcar documentos criados
+GET {{produtos}}/_all_docs?include_docs=true
+
+### modificando a preço de um produto
+### incluir produto 2
+PUT {{produtos}}/2?rev=2-f170438f6904435381966df547a97b5d
+Content-Type: : application/json
+
+{
+    "name": "Notebook",
+    "price": 2580.74,
+    "storage": 20
+}
+
+### verificar produto 2 com o numero de revisões
+GET {{produtos}}/2?revs_info=true
+
+### verificar produto 2 em uma revisão especifica
+GET {{produtos}}/2?rev=2-f170438f6904435381966df547a97b5d
+
+### deletar uma versão de documento salva
+DELETE {{produtos}}/2?rev=2-f170438f6904435381966df547a97b5d
+
+### deletar uma versão de documento salva
+HEAD {{produtos}}/2
+
+### salvar dados apartir de um arquivo json separado
+PUT {{produtos}}/3
+Content-Type: application/json
+
+< ./produtos.json

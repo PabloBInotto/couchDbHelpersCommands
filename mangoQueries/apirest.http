@@ -1,0 +1,203 @@
+@server = http://admin:couchdb@127.0.0.1:5984/
+
+PUT {{server}}filmes
+###
+POST {{server}}filmes/_bulk_docs
+Content-Type: application/json
+
+< ./filmes.json
+
+### proculando por id
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector" : {
+        "_id": "1020"
+    }
+}
+### proculando por titulo
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector" : {
+        "titulo": "Procurando Nemo"
+    }
+}
+
+### template de index do mango
+POST {{server}}filmes/_index
+Content-Type: application/json
+
+{
+    "index": {
+        "fields": [
+            "titulo"
+        ]
+    },
+    "name": "titulo-json-index",
+    "type": "json"
+}
+
+### template de consulta mais de um parametro
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector": {
+        "_id": "1030"
+    },
+    "fields": ["_id", "_rev", "titulo", "resumo", "nota"]
+}
+
+### template com mais de um parametro
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector": {
+        "nota": 7,
+        "lingua_original": "en"
+    },
+    "fields": ["_id", "_rev", "titulo", "resumo", "nota"]
+}
+### template com mais de um parametro de forma explicita
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector": {
+        "$and": [
+            {"nota": {"$gte": 7}},
+            {"lingua_original": {"$eq":"en"}}
+        ]
+    },
+    "fields": ["_id", "_rev", "titulo", "resumo", "nota"]
+}
+
+### template com operadores
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector": {
+        "$or": [
+            {"_id": "1003"}, {"_id": "1033"}, {"_id": "1043"}
+        ]
+    },
+    "fields": ["_id", "_rev", "titulo", "resumo", "nota"]
+}
+
+### template aplicando filtros em um subconjunto array
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector": {
+        "generos": {
+            "$all": ["Aventura",  "Fantasia"]
+        }
+    }
+}
+### template aplicando filtros em um subconjunto objeto
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector": {
+        "producao": {
+            "$elemMatch": {
+                "produtora": "Walt Disney Pictures"
+            }
+        }
+    }
+}
+### template aplicando filtros em um subconjunto objeto
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector": {
+        "$and": [
+                    {
+                        "producao": {
+                            "$elemMatch": {"produtora" : "Walt Disney Pictures"}
+                        }
+                    },
+                    {
+                        "producao": {
+                            "$elemMatch": {"produtora" : "Pixar"}
+                        }
+                    }
+                ]
+        
+    }
+}
+
+### template aplicando filtros em um subconjunto objeto
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector": {
+        "generos": {
+            "$allMatch": {
+                "$eq": "Drama"
+            }
+        }
+    }
+}
+
+### criando consutas de paginação
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector": {
+        "_id": {"$gte": "1000"}
+    },
+    "fields": ["_id", "_rev", "titulo", "nota"],
+    "limit": 5
+}
+
+### criando consutas de paginação
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector": {
+        "_id": {"$gte": "1000"}
+    },
+    "fields": ["_id", "_rev", "titulo", "nota"],
+    "limit": 5,
+      "bookmark": "g1AAAAA-eJzLYWBgYMpgSmHgKy5JLCrJTq2MT8lPzkzJBYqzGBoYWILkOGByOUBRRrhUVhYA7fsPKA"
+}
+
+### criando consutas de paginação menos 2 primeiros
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector": {
+        "_id": {"$gte": "1000"}
+    },
+    "fields": ["_id", "_rev", "titulo", "nota"],
+    "limit": 5,
+      "bookmark": "g1AAAAA-eJzLYWBgYMpgSmHgKy5JLCrJTq2MT8lPzkzJBYqzGBoYWILkOGByOUBRRrhUVhYA7fsPKA",
+      "skip": 2
+}
+
+### criando consutas de paginação ordenados na decrescente
+POST {{server}}filmes/_find
+Content-Type: application/json
+
+{
+    "selector": {
+        "_id": {"$gte": "1000"}
+    },
+    "fields": ["_id", "_rev", "titulo", "nota"],
+    "limit": 5,
+      "bookmark": "g1AAAAA-eJzLYWBgYMpgSmHgKy5JLCrJTq2MT8lPzkzJBYqzGBoYWILkOGByOUBRRrhUVhYA7fsPKA",
+      "sort": [{"_id": "desc"}]
+}

@@ -1,0 +1,2473 @@
+{
+    "docs": [{
+        "_id": "1000",
+        "titulo": "Procurando Nemo",
+        "data_de_lancamento": "2003-05-30",
+        "titulo_original": "Finding Nemo",
+        "generos": ["Animação", "Família"],
+        "pagina_web": "http://movies.disney.com/finding-nemo",
+        "lingua_original": "en",
+        "resumo": "O passado reserva tristes memórias para Marlin nos recifes de coral, onde perdeu sua esposa e toda a ninhada. Agora, ele cria seu único filho Nemo com todo o cuidado do mundo, mas o pequeno e simpático peixe-palhaço acaba exagerando durante uma simples discussão e acaba sendo capturado por um mergulhador. Agora, o pai super protetor precisa entrar em ação e parte numa busca incansável pelo mar aberto, na esperança de encontrar seu amado filhote. No meio do caminho, ele acaba conhecendo Dory e, juntos, a dupla vai viver uma incrível aventura. Enquanto isso, Nemo também vive uma intensa experiência ao lado de seus novos amigos habitantes de um aquário, pois eles precisam ajudá-lo a escapar do destino que lhe foi reservado: ir parar nas mãos da terrível Darla, sobrinha do dentista que o capturou.",
+        "slogan": "Existem 3.7 trilhões de peixes no oceano, eles estão procurando por um.",
+        "nota": 7.8,
+        "votantes": 12790,
+        "producao": [{
+            "produtora": "Pixar",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1001",
+        "titulo": "Piratas do Caribe: A Maldição do Pérola Negra",
+        "data_de_lancamento": "2003-07-09",
+        "titulo_original": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "generos": ["Aventura", "Fantasia", "Ação"],
+        "pagina_web": "http://disney.go.com/disneyvideos/liveaction/pirates/main_site/main.html",
+        "lingua_original": "en",
+        "resumo": "Em pleno século XVII, o pirata Jack Sparrow (Johnny Depp) tem seu navio saqueado e roubado pelo capitão Barbossa (Geoffrey Rush) e sua tripulação. Com o navio de Sparrow, Barbossa invade e saqueia a cidade de Port Royal, levando consigo Elizabeth Swann (Keira Knightley), a filha do governador (Jonathan Pryce). Decidido a recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner (Orlando Bloom), um grande amigo de Elizabeth que parte em seu encalço. Porém, o que ambos não sabem é que o Pérola Negra, navio de Barbossa, foi atingido por uma terrível maldição que faz com que eles naveguem eternamente pelos oceanos e se transformem em esqueletos à noite.",
+        "slogan": "Prepare-se para navegar em mares perigosos...",
+        "nota": 7.7,
+        "votantes": 13562,
+        "producao": [{
+            "produtora": "Jerry Bruckheimer Films",
+            "pais": "US"
+        }, {
+            "produtora": "Walt Disney Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1002",
+        "titulo": "Brilho Eterno de uma Mente sem Lembranças",
+        "data_de_lancamento": "2004-03-19",
+        "titulo_original": "Eternal Sunshine of the Spotless Mind",
+        "generos": ["Ficção científica", "Drama", "Romance"],
+        "pagina_web": "http://www.eternalsunshine.com",
+        "lingua_original": "en",
+        "resumo": "Joel (Jim Carrey) e Clementine (Kate Winslet) formavam um casal que, durante anos, tentaram fazer com que o relacionamento desse certo. Desiludida com o fracasso, Clementine decide esquecer Joel para sempre e, para tanto, aceita se submeter a um tratamento experimental, que retira de sua memória os momentos vividos com ele. Após saber de sua atitude, Joel entra em depressão, frustrado por ainda estar apaixonado por alguém que quer esquecê-lo. Decidido a superar a questão, Joel também se submete ao tratamento experimental. Porém ele acaba desistindo de tentar esquecê-la e começa a encaixar Clementine em momentos de sua memória os quais ela não participa.",
+        "slogan": "Um filme para todos que têm um passado que gostariam de esquecer...",
+        "nota": 8.1,
+        "votantes": 8479,
+        "producao": [{
+            "produtora": "Focus Features",
+            "pais": "US"
+        }, {
+            "produtora": "Anonymous Content",
+            "pais": "US"
+        }, {
+            "produtora": "This Is That Productions",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1003",
+        "titulo": "Marcas da Violência",
+        "data_de_lancamento": "2005-09-23",
+        "titulo_original": "A History of Violence",
+        "generos": ["Drama", "Thriller", "Crime"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Tom Stall leva uma vida tranquila e feliz na pequena cidade de Millbrook, no estado de Indiana, onde mora com sua esposa Edie e seus dois filhos. Um dia esta rotina de calmaria é interrompida quando Tom consegue impedir um assalto em seu restaurante. Percebendo o perigo, Tom se antecipa e consegue salvar seus clientes e amigos e, em legítima defesa, mata dois criminosos. Considerado um herói, Tom tem sua vida inteiramente transformada a partir de então. A mídia passa a segui-lo, o que o obriga a falar com ela regularmente e faz com que ele deseje que sua vida retorne à calmaria anterior. Surge então em sua vida Carl Fogarty, um misterioso homem que acredita que Tom lhe fez mal no passado.",
+        "slogan": "Este homem só queria deixar seu passado para trás, mas não conseguiu.",
+        "nota": 7.1,
+        "votantes": 1699,
+        "producao": [{
+            "produtora": "New Line Cinema",
+            "pais": "US"
+        }, {
+            "produtora": "BenderSpink",
+            "pais": ""
+        }, {
+            "produtora": "DC Comics",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1004",
+        "titulo": "Piratas do Caribe: O Baú da Morte",
+        "data_de_lancamento": "2006-06-20",
+        "titulo_original": "Pirates of the Caribbean: Dead Man's Chest",
+        "generos": ["Aventura", "Fantasia", "Ação"],
+        "pagina_web": "http://disney.go.com/disneypictures/pirates/",
+        "lingua_original": "en",
+        "resumo": "Elizabeth Swann (Keira Knightley), a filha do governador Weatherby (Jonathan Pryce), está prestes a se casar com o ferreiro Will Turner (Orlando Bloom). Porém o evento é atrapalhado pela ameaça de Davy Jones (Bill Nighy), o capitão do assombrado navio Flying Dutchman, que tem uma dívida de sangue com o capitão Jack Sparrow (Johnny Depp), amigo do casal. Temendo ser amaldiçoado a uma vida após a morte como escravo de Jones, Sparrow precisa encontrar o misterioso baú da morte para escapar da ameaça.",
+        "slogan": "Jack está de volta.",
+        "nota": 7.2,
+        "votantes": 10293,
+        "producao": [{
+            "produtora": "Walt Disney Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Jerry Bruckheimer Films",
+            "pais": "US"
+        }, {
+            "produtora": "Second Mate Productions",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1005",
+        "titulo": "Paradise Now",
+        "data_de_lancamento": "2005-02-14",
+        "titulo_original": "Paradise Now",
+        "generos": ["Thriller", "Crime", "Drama"],
+        "pagina_web": "http://wip.warnerbros.com/paradisenow/",
+        "lingua_original": "en",
+        "resumo": "Visto da perspectiva de dois palestinos que estão se preparando para realizar um ataque suicida em Israel, este é o primeiro filme a tratar do assunto de homens-bomba.",
+        "slogan": "Do lugar mais inesperado, surge um novo e ousado pedido de paz.",
+        "nota": 7,
+        "votantes": 125,
+        "producao": [{
+            "produtora": "Eurimages",
+            "pais": "FR"
+        }, {
+            "produtora": "Lama Films",
+            "pais": ""
+        }, {
+            "produtora": "Augustus Film",
+            "pais": ""
+        }, {
+            "produtora": "Lama Productions",
+            "pais": ""
+        }, {
+            "produtora": "Lumer Films",
+            "pais": ""
+        }, {
+            "produtora": "Hazazah Film",
+            "pais": ""
+        }, {
+            "produtora": "Filmstiftung Nordrhein-Westfalen",
+            "pais": "DE"
+        }, {
+            "produtora": "Razor Film Produktion",
+            "pais": "DE"
+        }, {
+            "produtora": "Nederlands Fonds voor de Film",
+            "pais": "NL"
+        }, {
+            "produtora": "Medienboard Berlin-Brandenburg",
+            "pais": ""
+        }, {
+            "produtora": "ARTE France Cinéma",
+            "pais": "FR"
+        }]
+    }, {
+        "_id": "1006",
+        "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+        "data_de_lancamento": "2003-12-01",
+        "titulo_original": "The Lord of the Rings: The Return of the King",
+        "generos": ["Aventura", "Fantasia", "Ação"],
+        "pagina_web": "http://www.lordoftherings.net",
+        "lingua_original": "en",
+        "resumo": "Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf (Ian McKellen) e Pippin (Billy Boyd) partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden (Bernard Hill) em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso Frodo (Elijah Wood), Sam (Sean Astin) e Gollum (Andy Serkins) seguem sua viagem rumo à Montanha da Perdição, para destruir o Um Anel.",
+        "slogan": "O olho do inimigo está se movendo.",
+        "nota": 8.4,
+        "votantes": 14531,
+        "producao": [{
+            "produtora": "New Line Cinema",
+            "pais": "US"
+        }, {
+            "produtora": "WingNut Films",
+            "pais": "NZ"
+        }, {
+            "produtora": "The Saul Zaentz Company",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1007",
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "data_de_lancamento": "2001-12-18",
+        "titulo_original": "The Lord of the Rings: The Fellowship of the Ring",
+        "generos": ["Aventura", "Fantasia", "Ação"],
+        "pagina_web": "http://www.lordoftherings.net/",
+        "lingua_original": "en",
+        "resumo": "Numa terra fantástica e única, chamada Terra-Média, um hobbit (seres de estatura entre 80 cm e 1,20 m, com pés peludos e bochechas um pouco avermelhadas) recebe de presente de seu tio o Um Anel, um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso o hobbit Frodo (Elijah Woods) terá um caminho árduo pela frente, onde encontrará perigo, medo e personagens bizarros. Ao seu lado para o cumprimento desta jornada aos poucos ele poderá contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando 9 pessoas que formarão a Sociedade do Anel.",
+        "slogan": "A Terra Média ganha vida.",
+        "nota": 8.3,
+        "votantes": 15919,
+        "producao": [{
+            "produtora": "New Line Cinema",
+            "pais": "US"
+        }, {
+            "produtora": "WingNut Films",
+            "pais": "NZ"
+        }, {
+            "produtora": "The Saul Zaentz Company",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1008",
+        "titulo": "A Viagem de Chihiro",
+        "data_de_lancamento": "2001-07-20",
+        "titulo_original": "千と千尋の神隠し",
+        "generos": ["Animação", "Família", "Fantasia"],
+        "pagina_web": "http://movies.disney.com/spirited-away",
+        "lingua_original": "ja",
+        "resumo": "Chihiro é uma garota de dez anos que acredita que todo o universo deve atender aos seus caprichos. Ao descobrir que vai se mudar, ela fica furiosa. Na viagem, Chihiro percebe que seu pai se perdeu no caminho para a nova cidade, indo parar defronte a um túnel aparentemente sem fim, guardado por uma estranha estátua. Curiosos, os pais de Chihiro decidem entrar no túnel e Chihiro vai com eles. Chegam numa cidade sem nenhum habitante e os pais de Chihiro decidem comer a comida de uma das casas, enquanto a menina passeia. Ela encontra com Haku, garoto que lhe diz para ir embora o mais rápido possível e, ao reencontrar seus pais, Chihiro fica surpresa ao ver que eles se transformaram em gigantescos porcos. É o início da jornada de Chihiro por um mundo fantasma, povoado por seres fantásticos, no qual humanos não são bem-vindos.",
+        "slogan": "A Viagem de Chihiro",
+        "nota": 8.5,
+        "votantes": 8387,
+        "producao": [{
+            "produtora": "Studio Ghibli",
+            "pais": "JP"
+        }]
+    }, {
+        "_id": "1009",
+        "titulo": "O Senhor dos Anéis: As Duas Torres",
+        "data_de_lancamento": "2002-12-18",
+        "titulo_original": "The Lord of the Rings: The Two Towers",
+        "generos": ["Aventura", "Fantasia", "Ação"],
+        "pagina_web": "http://www.lordoftherings.net/",
+        "lingua_original": "en",
+        "resumo": "Após a captura de Merry (Dominic Monaghan) e Pippy (Billy Boyd) pelos orcs, a Sociedade do Anel é dissolvida. Enquanto que Frodo (Elijah Wood) e Sam (Sean Astin) seguem sua jornada rumo à Montanha da Perdição para destruir o Um Anel, Aragorn (Viggo Mortensen), Legolas (Orlando Bloom) e Gimli (John Rhys-Davies) partem para resgatar os hobbits sequestrados.",
+        "slogan": "A Sociedade é quebrada. O poder das trevas cresce.",
+        "nota": 8.3,
+        "votantes": 13726,
+        "producao": [{
+            "produtora": "New Line Cinema",
+            "pais": "US"
+        }, {
+            "produtora": "WingNut Films",
+            "pais": "NZ"
+        }, {
+            "produtora": "The Saul Zaentz Company",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1010",
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "data_de_lancamento": "2008-07-16",
+        "titulo_original": "The Dark Knight",
+        "generos": ["Drama", "Ação", "Crime", "Thriller"],
+        "pagina_web": "https://www.warnerbros.com/movies/dark-knight/",
+        "lingua_original": "en",
+        "resumo": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
+        "slogan": "Por que tão sério?",
+        "nota": 8.4,
+        "votantes": 20823,
+        "producao": [{
+            "produtora": "DC Comics",
+            "pais": "US"
+        }, {
+            "produtora": "Legendary Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "Syncopy",
+            "pais": "GB"
+        }, {
+            "produtora": "Isobel Griffiths",
+            "pais": "GB"
+        }, {
+            "produtora": "DC Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1011",
+        "titulo": "Extermínio",
+        "data_de_lancamento": "2002-10-31",
+        "titulo_original": "28 Days Later",
+        "generos": ["Terror", "Thriller", "Ficção científica"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Um poderoso vírus está a solta. Transmitido em uma gota de sangue e com efeito devastador em alguns segundos, o vírus mantém os infectados em um estado permanente de descontrole assassino. Dentro de 28 dias, o país está tomado e um punhado de sobreviventes inicia esforços para garantir algum futuro à raça humana, mas o que não percebem é que o vírus mortal não é única coisa que os ameaça.",
+        "slogan": "Os dias estão contados.",
+        "nota": 7.2,
+        "votantes": 3675,
+        "producao": [{
+            "produtora": "DNA Films",
+            "pais": "GB"
+        }]
+    }, {
+        "_id": "1012",
+        "titulo": "Jogos Mortais",
+        "data_de_lancamento": "2004-10-01",
+        "titulo_original": "Saw",
+        "generos": ["Terror", "Mistério", "Crime"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Jigsaw é um assassino que possui uma marca registrada: ele deixa em suas vítimas uma cicatriz em forma de quebra-cabeças, que faz com que elas cometam atos igonizantes para se salvar. O detetive David Tapp (Danny Glover) é designado para investigar os assassinatos, bem como a capturar seu autor. Porém o caminho evasivo seguido por Jigsaw leva o detetive a desenvolver uma obsessão por capturá-lo.",
+        "slogan": "Que os jogos comecem...",
+        "nota": 7.4,
+        "votantes": 5318,
+        "producao": [{
+            "produtora": "Twisted Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Evolution Entertainment",
+            "pais": ""
+        }, {
+            "produtora": "Saw Productions Inc.",
+            "pais": ""
+        }, {
+            "produtora": "Lionsgate",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1013",
+        "titulo": "Minority Report: A Nova Lei",
+        "data_de_lancamento": "2002-06-20",
+        "titulo_original": "Minority Report",
+        "generos": ["Ação", "Thriller", "Ficção científica", "Mistério"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Washington, 2054. O assassinato foi banido, pois há a divisão pré-crime, um setor da polícia onde futuro é visualizado através de precogs e o culpado é punido antes do crime ter sido cometido. As informações são fornecidas para os policiais, que tentam impedir o assassinato. O líder da equipe de policiais é John Anderton. Porém algo muda totalmente sua vida quando vê que matará um desconhecido em menos de trinta e seis horas. A confiança que Anderton tinha no sistema rapidamente se perde e John segue uma pequena pista: um estranho caso que não foi solucionado e há um \"relatório menor\", uma documentação de um dos raros eventos no qual o que um precog viu é diferente dos outros. Mas apurar isto não é uma tarefa fácil, pois a divisão pré-crime já está atrás dele.",
+        "slogan": "Você não pode se esconder.",
+        "nota": 7.3,
+        "votantes": 5123,
+        "producao": [{
+            "produtora": "Digital Image Associates",
+            "pais": ""
+        }, {
+            "produtora": "Cruise/Wagner Productions",
+            "pais": ""
+        }, {
+            "produtora": "Blue Tulip Productions",
+            "pais": ""
+        }, {
+            "produtora": "Ronald Shusett/Gary Goldman",
+            "pais": ""
+        }, {
+            "produtora": "Amblin Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "20th Century Fox",
+            "pais": "US"
+        }, {
+            "produtora": "DreamWorks Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1014",
+        "titulo": "O Fabuloso Destino de Amélie Poulain",
+        "data_de_lancamento": "2001-04-25",
+        "titulo_original": "Le Fabuleux Destin d'Amélie Poulain",
+        "generos": ["Comédia", "Romance"],
+        "pagina_web": "https://www.miramax.com/movie/amelie/",
+        "lingua_original": "fr",
+        "resumo": "Após deixar a vida de subúrbio que levava com a família, a inocente Amélie muda-se para o bairro parisiense de Montmartre, onde começa a trabalhar como garçonete. Certo dia encontra uma caixa escondida no banheiro de sua casa e, pensando que pertencesse ao antigo morador, decide procurá-lo ­e é assim que encontra Dominique. Ao ver que ele chora de alegria ao reaver o seu objeto, a moça fica impressionada e adquire uma nova visão do mundo. Então, a partir de pequenos gestos, ela passa a ajudar as pessoas que a rodeiam, vendo nisto um novo sentido para sua existência. Contudo, ainda sente falta de um grande amor.",
+        "slogan": "Uma pessoa pode mudar sua vida para sempre.",
+        "nota": 7.9,
+        "votantes": 6982,
+        "producao": [{
+            "produtora": "France 3 Cinéma",
+            "pais": "FR"
+        }, {
+            "produtora": "Claudie Ossard Productions",
+            "pais": ""
+        }, {
+            "produtora": "MMC Independent",
+            "pais": ""
+        }, {
+            "produtora": "Tapioca Films",
+            "pais": ""
+        }, {
+            "produtora": "Sofica Sofinergie 5",
+            "pais": ""
+        }, {
+            "produtora": "Victoires Productions",
+            "pais": ""
+        }, {
+            "produtora": "Union Générale Cinématographique (UGC)",
+            "pais": ""
+        }, {
+            "produtora": "Canal+",
+            "pais": "FR"
+        }, {
+            "produtora": "Filmstiftung Nordrhein-Westfalen",
+            "pais": "DE"
+        }]
+    }, {
+        "_id": "1015",
+        "titulo": "Sin City: A Cidade do Pecado",
+        "data_de_lancamento": "2005-04-01",
+        "titulo_original": "Sin City",
+        "generos": ["Ação", "Thriller", "Crime"],
+        "pagina_web": "http://www.miramax.com/movie/sin-city/",
+        "lingua_original": "en",
+        "resumo": "Sin City é uma cidade que seduz as pessoas. Nela vivem policiais trapaceiros, mulheres sedutoras e vigilantes desesperados, com alguns estando em busca de vingança e outros em busca de redenção. Um deles é Marv (Mickey Rourke), um lutador de rua durão que sempre levou sua vida a seu modo. Após levar para casa a bela Goldie (Jaime King), ela aparece morta em sua cama. Isto faz com que Marv decida percorrer a cidade em uma jornada pessoal, em busca de vingança. Além dele há Dwight (Clive Owen), um detetive particular que tenta a todo custo deixar seus problemas para trás. Após o assassinato de um policial, Dwight se apresenta para proteger suas amigas, as damas da noite. Há também John Hartigan (Bruce Willis), o último policial honesto da cidade, que restando apenas uma hora para se aposentar se envolve na tentativa de salvar uma jovem de 11 anos das mãos do filho de um senador.",
+        "slogan": "Não há justiça sem pecado.",
+        "nota": 7.4,
+        "votantes": 5085,
+        "producao": [{
+            "produtora": "Dimension Films",
+            "pais": "US"
+        }, {
+            "produtora": "Troublemaker Studios",
+            "pais": "US"
+        }, {
+            "produtora": "Miramax",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1016",
+        "titulo": "Batman Begins",
+        "data_de_lancamento": "2005-06-10",
+        "titulo_original": "Batman Begins",
+        "generos": ["Ação", "Crime", "Drama"],
+        "pagina_web": "https://www.warnerbros.com/movies/batman-begins/",
+        "lingua_original": "en",
+        "resumo": "Marcado pelo assassinato de seus pais quando ainda era criança, o milionário Bruce Wayne (Christian Bale) decide viajar pelo mundo em busca de encontrar meios que lhe permitam combater a injustiça e provocar medo em seus adversários. Após retornar a Gotham City, sua cidade-natal, ele idealiza seu alter-ego: Batman, um justiceiro mascarado que usa força, inteligência e um arsenal tecnológico para combater o crime.",
+        "slogan": "O mal irá temê-lo.",
+        "nota": 7.6,
+        "votantes": 13480,
+        "producao": [{
+            "produtora": "DC Comics",
+            "pais": "US"
+        }, {
+            "produtora": "Legendary Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "DC Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "Syncopy",
+            "pais": "GB"
+        }, {
+            "produtora": "Patalex III Productions Limited",
+            "pais": ""
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1017",
+        "titulo": "Piratas do Caribe: No Fim do Mundo",
+        "data_de_lancamento": "2007-05-19",
+        "titulo_original": "Pirates of the Caribbean: At World's End",
+        "generos": ["Aventura", "Fantasia", "Ação"],
+        "pagina_web": "http://disney.go.com/disneypictures/pirates",
+        "lingua_original": "en",
+        "resumo": "O lorde Cuttler Beckett (Tom Hollander), da Companhia das Índias Orientais, detém o comando do navio-fantasma Flying Dutchman. O navio, agora sob o comando do almirante James Norrington (Jack Davenport), tem por missão vagar pelos sete mares em busca de piratas e matá-los sem piedade. Na intenção de deter Beckett, Will Turner (Orlando Bloom), Elizabeth Swann (Keira Knightley) e o capitão Barbossa (Geoffrey Rush) precisam reunir os Nove Lordes da Corte da Irmandade. Porém falta um dos Lordes, o capitão Jack Sparrow (Johnny Depp). O trio parte para Cingapura, na intenção de conseguir o mapa que os conduzirá ao fim do mundo, o que possibilitará que Jack seja resgatado. Porém para conseguir o mapa eles precisarão enfrentar um pirata chinês, o capitão Sao Feng (Chow Yun-Fat).",
+        "slogan": "No fim do mundo, a aventura começa.",
+        "nota": 7.2,
+        "votantes": 9164,
+        "producao": [{
+            "produtora": "Jerry Bruckheimer Films",
+            "pais": "US"
+        }, {
+            "produtora": "Second Mate Productions",
+            "pais": "US"
+        }, {
+            "produtora": "Walt Disney Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1018",
+        "titulo": "O Diabo Veste Prada",
+        "data_de_lancamento": "2006-06-30",
+        "titulo_original": "The Devil Wears Prada",
+        "generos": ["Comédia", "Drama", "Romance"],
+        "pagina_web": "http://www.devilwearspradamovie.com/",
+        "lingua_original": "en",
+        "resumo": "Andrea Sachs (Anne Hathaway) é uma jovem que conseguiu um emprego na Runaway Magazine, a mais importante revista de moda de Nova York. Ela passa a trabalhar como assistente de Miranda Priestly (Meryl Streep), principal executiva da revista. Apesar da chance que muitos sonhariam em conseguir, logo Andrea nota que trabalhar com Miranda não é tão simples assim.",
+        "slogan": "Um grande salto para o inferno.",
+        "nota": 7.3,
+        "votantes": 7310,
+        "producao": [{
+            "produtora": "Fox 2000 Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Dune Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "Major Studio Partners",
+            "pais": ""
+        }, {
+            "produtora": "Peninsula Films",
+            "pais": ""
+        }, {
+            "produtora": "20th Century Fox",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1019",
+        "titulo": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+        "data_de_lancamento": "2005-12-07",
+        "titulo_original": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "generos": ["Aventura", "Família", "Fantasia"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Mandados a uma casa de campo por segurança durante a II Guerra Mundial, quatro crianças descobrem um guarda-roupas mágico que os leva à mágica terra de Narnia.",
+        "slogan": "O mal reinou por 100 anos...",
+        "nota": 7,
+        "votantes": 6441,
+        "producao": [{
+            "produtora": "Walt Disney Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Walden Media",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1020",
+        "titulo": "A Era do Gelo",
+        "data_de_lancamento": "2002-03-10",
+        "titulo_original": "Ice Age",
+        "generos": ["Animação", "Comédia", "Família", "Aventura"],
+        "pagina_web": "http://www.iceagemovies.com/br/films/a-era-do-gelo",
+        "lingua_original": "en",
+        "resumo": "O mamute Manny (Ray Romano/Diogo Vilela), o tigre de dente de sabre Diego (Dennis Leary/Márcio Garcia) e a preguiça-gigante Sid (John Leguizamo/Tadeu Melo) são amigos em uma época muito distante dos dias atuais e vivem suas vidas em meio a muito gelo. Até o dia em que eles encontram um menino esquimó totalmente sozinho, longe de seus pais, e decidem que precisam ajudá-lo a achar a sua família. Enquanto isso, o esquilo pré-histórico Scrat segue na sua saga para manter sua amada noz protegida de outros predadores.",
+        "slogan": "O evento mais frio dos últimos 16.000 de anos.",
+        "nota": 7.3,
+        "votantes": 8299,
+        "producao": [{
+            "produtora": "Blue Sky Studios",
+            "pais": "US"
+        }, {
+            "produtora": "20th Century Fox Animation",
+            "pais": "US"
+        }, {
+            "produtora": "20th Century Fox",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1021",
+        "titulo": "Homem-Aranha 2",
+        "data_de_lancamento": "2004-06-25",
+        "titulo_original": "Spider-Man 2",
+        "generos": ["Ação", "Aventura", "Fantasia"],
+        "pagina_web": "http://www.sonypictures.com/movies/spider-man2/",
+        "lingua_original": "en",
+        "resumo": "Após derrotar o Duende Verde a vida de Peter Parker (Tobey Maguire) muda por completo. Temendo que Mary Jane (Kirsten Dunst) sofra algum risco por ser ele o Homem-Aranha, Peter continua escondendo o amor que sente e se mantém longe dela. Ao mesmo tempo precisa lidar com Harry (James Franco), seu melhor amigo, cuja raiva pelo Homem-Aranha aumenta cada vez mais por considerá-lo como sendo o assassino de seu pai. Além disso sua tia May (Rosemary Harris) passa por uma fase difícil após a morte de seu tio Ben, estranhando também o comportamento do sobrinho. Enquanto precisa lidar com seus problemas particulares Peter recebe ainda uma má notícia: o surgimento do Dr. Octopus (Alfred Molina), um homem que possui tentáculos presos ao corpo.",
+        "slogan": "Este é o meu presente . Esta é a minha maldição.",
+        "nota": 7,
+        "votantes": 8957,
+        "producao": [{
+            "produtora": "Columbia Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Laura Ziskin Productions",
+            "pais": ""
+        }, {
+            "produtora": "Marvel Enterprises",
+            "pais": "US"
+        }, {
+            "produtora": "Sony Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1022",
+        "titulo": "Homem-Aranha",
+        "data_de_lancamento": "2002-05-01",
+        "titulo_original": "Spider-Man",
+        "generos": ["Fantasia", "Ação"],
+        "pagina_web": "http://www.sonypictures.com/movies/spider-man/",
+        "lingua_original": "en",
+        "resumo": "Peter Parker é um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser tímido e por eles o considerarem um nerd. Até que, em uma demonstração científica, um acidente inesperado faz com que aranha modificada geneticamente pique Peter. A partir de então seu corpo é quimicamente alterado pela picada da aranha. Inicialmente Peter pensa em usar seus novos poderes para ganhar dinheiro, adotando o nome de Homem-Aranha e se apresentando em lutas de exibição. Porém, ao permitir que um ladrão fuja por não considerar sua função capturá-lo, o fugitivo acaba assassinando seu tio Ben. A partir de então, Peter decide usar seus poderes para enfrentar o mal, tendo como seu primeiro grande desafio enfrentar o Duende Verde.",
+        "slogan": "Com grandes poderes vem grandes responsabilidades.",
+        "nota": 7.1,
+        "votantes": 11032,
+        "producao": [{
+            "produtora": "Marvel Enterprises",
+            "pais": "US"
+        }, {
+            "produtora": "Columbia Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Sony Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1023",
+        "titulo": "Monstros S.A.",
+        "data_de_lancamento": "2001-11-01",
+        "titulo_original": "Monsters, Inc.",
+        "generos": ["Animação", "Comédia", "Família"],
+        "pagina_web": "http://movies.disney.com/monsters-inc",
+        "lingua_original": "en",
+        "resumo": "Sulley e seu falante assistente Mike trabalham na Monstros S.A., a maior fábrica de processamento de gritos de Monstrópolis. A principal fonte de energia do mundo dos monstros provém da coleta dos gritos das crianças humanas. Só que os montros acreditam que as crianças são tóxicas e, quando uma menininha invade o mundo deles, começa a maior confusão.",
+        "slogan": "No susto e no grito, fazemos bonito.",
+        "nota": 7.8,
+        "votantes": 11879,
+        "producao": [{
+            "produtora": "Pixar",
+            "pais": "US"
+        }, {
+            "produtora": "Walt Disney Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1024",
+        "titulo": "Peixe Grande e suas Histórias Maravilhosas",
+        "data_de_lancamento": "2003-12-25",
+        "titulo_original": "Big Fish",
+        "generos": ["Aventura", "Fantasia", "Drama"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Ed Bloom é um grande contador de histórias. Quando jovem, Ed saiu de sua pequena cidade-natal, Ashton no Alabama, para realizar uma volta ao mundo. A diversão predileta de Ed, já velho, é contar sobre as aventuras que viveu neste período, mesclando realidade com fantasia. As histórias fascinam todos que as ouvem, com exceção de Will, filho de Ed. Até que Sandra, mãe de Will, tenta aproximar pai e filho, o que faz com que Ed enfim tenha que separar a ficção da realidade de suas histórias.",
+        "slogan": "Uma aventura tão grande como a própria vida.",
+        "nota": 7.8,
+        "votantes": 4345,
+        "producao": [{
+            "produtora": "Columbia Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "The Zanuck Company",
+            "pais": "US"
+        }, {
+            "produtora": "Jinks/Cohen Company",
+            "pais": ""
+        }, {
+            "produtora": "Tim Burton Productions",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1025",
+        "titulo": "As Horas",
+        "data_de_lancamento": "2002-12-27",
+        "titulo_original": "The Hours",
+        "generos": ["Drama"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Em três períodos diferentes vivem três mulheres ligadas ao livro \"Mrs. Dalloway\". Em 1923 vive Virginia Woolf (Nicole Kidman), autora do livro, que enfrenta uma crise de depressão e idéias de suicídio. Em 1949 vive Laura Brown (Julianne Moore), uma dona de casa grávida que mora em Los Angeles, planeja uma festa de aniversário para o marido e não consegue parar de ler o livro. Nos dias atuais vive Clarissa Vaughn (Meryl Streep), uma editora de livros que vive em Nova York e dá uma festa para Richard (Ed Harris), escritor que fora seu amante no passado e hoje está com Aids e morrendo.",
+        "slogan": "Três mulheres diferentes. Cada uma vivendo uma mentira.",
+        "nota": 7.4,
+        "votantes": 972,
+        "producao": [{
+            "produtora": "Paramount",
+            "pais": "US"
+        }, {
+            "produtora": "Miramax",
+            "pais": "US"
+        }, {
+            "produtora": "Scott Rudin Productions",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1026",
+        "titulo": "O Terminal",
+        "data_de_lancamento": "2004-06-17",
+        "titulo_original": "The Terminal",
+        "generos": ["Comédia", "Drama"],
+        "pagina_web": "https://www.paramountmovies.com/movies/the-terminal",
+        "lingua_original": "en",
+        "resumo": "Viktor Navorski é um cidadão da Europa Oriental que viaja rumo a Nova York justamente quando seu país sofre um golpe de estado, o que faz com que seu passaporte seja invalidado. Ao chegar ao aeroporto, Viktor não consegue autorização para entrar nos Estados Unidos. Sem poder retornar à sua terra natal, já que as fronteiras foram fechadas após o golpe, Viktor passa a improvisar seus dias e noites no próprio aeroporto, à espera que a situação se resolva. Porém, com a situação se arrastando por meses, Viktor permanece no aeroporto e passa a descobrir o complexo mundo do terminal onde está preso.",
+        "slogan": "A vida está esperando.",
+        "nota": 7.3,
+        "votantes": 4346,
+        "producao": [{
+            "produtora": "Amblin Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "Parkes/MacDonald Productions",
+            "pais": ""
+        }, {
+            "produtora": "DreamWorks Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1027",
+        "titulo": "A Paixão de Cristo",
+        "data_de_lancamento": "2004-02-25",
+        "titulo_original": "The Passion of the Christ",
+        "generos": ["Drama"],
+        "pagina_web": "https://www.foxmovies.com/movies/the-passion-of-the-christ",
+        "lingua_original": "en",
+        "resumo": "As últimas 12 horas da vida de Jesus de Nazaré. No meio da noite, Jesus é traído por Judas e é preso por soldados no Monte das Oliveiras, sob o comando de religiosos hebreus, que eram liderados por Caifás. Após ser severamente espancado pelos seus captores, Jesus é entregue para o governador romano na Judéia, Poncio Pilatos, pois só ele poderia ordenar a pena de morte para Jesus. Pilatos não entende o que aquele homem possa ter feito de tão horrível para pedirem a pena máxima e eram os hebreus que pediam isto. Pilatos tenta passar a decisão para Herodes, governador da Galiléia, pois Jesus era de lá. Herodes também não encontra nada que incrimine Jesus e o assunto volta para Pilatos, que vai perdendo o controle da situação enquanto boa parte da população pede que Jesus seja crucificado. Tentando acalmar o povo e a província, que detesta, Pilatos vai cedendo sob os olhares incriminadores de Claudia, sua mulher, que considera Jesus um santo.",
+        "slogan": "Por suas feridas, fomos curados.",
+        "nota": 7.1,
+        "votantes": 1940,
+        "producao": [{
+            "produtora": "Icon Productions",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1028",
+        "titulo": "Munique",
+        "data_de_lancamento": "2005-12-23",
+        "titulo_original": "Munich",
+        "generos": ["Drama", "Ação", "História", "Thriller"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Em setembro de 1972, em meio às Olimpíadas de Munique, um ataque terrorista sem precedentes foi transmitido ao vivo para 900 milhões de pessoas. Um grupo palestino denominado Setembro Negro invadiu a Vila Olímpica, matou 2 integrantes da equipe olímpica israelense e manteve outros 9 como reféns. 21 horas depois o ataque chegou ao fim, com todos sendo mortos. Pouco depois Avner (Eric Bana), um jovem israelense revoltado com o ocorrido, recebe de um oficial do Mossad uma ordem sem precedentes: abandonar sua esposa grávida e sua identidade para caçar e matar os 11 homens apontados pela inteligência de Israel como tendo planejado o atentado. Avner aceita a ordem e passa a liderar uma equipe de apenas 4 integrantes, extremamente talentosos. Eles passam então a viajar pelo mundo em total sigilo, na pista de cada um dos nomes de uma lista muito bem guardada.",
+        "slogan": "O mundo estava assistindo em 1972 quando 11 atletas israelenses foram assassinados nas Olimpíadas de Munique. Esta é a história do que aconteceu a seguir",
+        "nota": 7.1,
+        "votantes": 1401,
+        "producao": [{
+            "produtora": "Universal Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Amblin Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "Barry Mendel Productions",
+            "pais": ""
+        }, {
+            "produtora": "Alliance Atlantis Communications",
+            "pais": ""
+        }, {
+            "produtora": "Peninsula Films",
+            "pais": ""
+        }, {
+            "produtora": "DreamWorks Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "The Kennedy/Marshall Company",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1029",
+        "titulo": "A Queda! As Últimas Horas de Hitler",
+        "data_de_lancamento": "2004-09-08",
+        "titulo_original": "Der Untergang",
+        "generos": ["Drama", "História", "Guerra"],
+        "pagina_web": "",
+        "lingua_original": "de",
+        "resumo": "Traudl Junge (Alexandra Maria Lara) trabalhava como secretária de Adolf Hitler (Bruno Ganz) durante a 2ª Guerra Mundial. Ela narra os últimos dias do líder alemão, que estava confinado em um quarto de segurança máxima.",
+        "slogan": "Abril de 1945, uma nação aguarda ... Queda",
+        "nota": 7.8,
+        "votantes": 1997,
+        "producao": [{
+            "produtora": "Rai Cinema",
+            "pais": "IT"
+        }, {
+            "produtora": "Constantin Film",
+            "pais": "DE"
+        }, {
+            "produtora": "NDR",
+            "pais": "DE"
+        }, {
+            "produtora": "Österreichischer Rundfunk",
+            "pais": "AT"
+        }, {
+            "produtora": "Degeto Film",
+            "pais": ""
+        }, {
+            "produtora": "EOS Entertainment",
+            "pais": "DE"
+        }, {
+            "produtora": "Westdeutscher Rundfunk",
+            "pais": "DE"
+        }]
+    }, {
+        "_id": "1030",
+        "titulo": "Prenda-me Se For Capaz",
+        "data_de_lancamento": "2002-12-25",
+        "titulo_original": "Catch Me If You Can",
+        "generos": ["Drama", "Crime"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Frank Abagnale Jr. já foi médico, advogado e co-piloto, tudo isso com apenas 18 anos. Mestre na arte do disfarce, ele aproveita suas habilidades para viver a vida como quer e praticar golpes milionários, que fazem com que se torne o ladrão de banco mais bem-sucedido da história dos Estados Unidos com apenas 17 anos. Mas em seu encalço está o agente do FBI Carl Hanratty, que usa todos os meios que tem ao seu dispor para encontrá-lo e capturá-lo.",
+        "slogan": "A história real de um verdadeiro impostor.",
+        "nota": 7.9,
+        "votantes": 8353,
+        "producao": [{
+            "produtora": "Parkes/MacDonald Productions",
+            "pais": ""
+        }, {
+            "produtora": "Kemp Company",
+            "pais": ""
+        }, {
+            "produtora": "Splendid Pictures",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1031",
+        "titulo": "A.I.: Inteligência Artificial",
+        "data_de_lancamento": "2001-06-29",
+        "titulo_original": "A.I. Artificial Intelligence",
+        "generos": ["Drama", "Ficção científica", "Aventura"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Um garoto robótico altamente avançado deseja tornar-se \"real\" para recuperar o amor de sua mãe humana.",
+        "slogan": "Um mundo onde os robôs têm sonhos e desejos.",
+        "nota": 7,
+        "votantes": 3870,
+        "producao": [{
+            "produtora": "Amblin Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "Stanley Kubrick Productions",
+            "pais": ""
+        }, {
+            "produtora": "DreamWorks Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1032",
+        "titulo": "Tróia",
+        "data_de_lancamento": "2004-05-03",
+        "titulo_original": "Troy",
+        "generos": ["Aventura", "História"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Em 1193 A.C., Paris (Orlando Bloom) é um príncipe que provoca uma guerra da Messência contra Tróia, ao afastar Helena (Diane Kruger) de seu marido, Menelaus (Brendan Gleeson). Tem início então uma sangrenta batalha, que dura por mais de uma década. A esperança do Priam (Peter O'Toole), rei de Tróia, em vencer a guerra está nas mãos de Aquiles (Brad Pitt), o maior herói da Grécia, e seu filho Hector (Eric Bana).",
+        "slogan": "Pela paixão!",
+        "nota": 7,
+        "votantes": 6043,
+        "producao": [{
+            "produtora": "Radiant Productions",
+            "pais": ""
+        }, {
+            "produtora": "Helena Productions",
+            "pais": "GB"
+        }, {
+            "produtora": "Latina Pictures",
+            "pais": "MT"
+        }, {
+            "produtora": "Plan B Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "Nimar Studios",
+            "pais": "BG"
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1033",
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "data_de_lancamento": "2001-11-16",
+        "titulo_original": "Harry Potter and the Philosopher's Stone",
+        "generos": ["Aventura", "Fantasia", "Família"],
+        "pagina_web": "https://www.warnerbros.com/movies/harry-potter-and-sorcerers-stone/",
+        "lingua_original": "en",
+        "resumo": "Harry Potter é um garoto órfão de 10 anos que vive infeliz com seus tios, os Dursley. Até que, repentinamente, ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente Harry é impedido de ler a carta por seu tio Válter, mas logo ele recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega em sua casa para levá-lo até a escola. A partir de então Harry passa a conhecer um mundo mágico que jamais imaginara, vivendo as mais diversas aventuras com seus mais novos amigos, Rony Weasley e Hermione Granger.",
+        "slogan": "Uma jornada além de sua imaginação.",
+        "nota": 7.8,
+        "votantes": 15530,
+        "producao": [{
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Heyday Films",
+            "pais": "GB"
+        }, {
+            "produtora": "1492 Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1034",
+        "titulo": "Harry Potter e a Ordem da Fênix",
+        "data_de_lancamento": "2007-06-28",
+        "titulo_original": "Harry Potter and the Order of the Phoenix",
+        "generos": ["Aventura", "Fantasia", "Mistério"],
+        "pagina_web": "https://www.warnerbros.com/movies/harry-potter-and-order-phoenix/",
+        "lingua_original": "en",
+        "resumo": "Harry Potter retorna à Escola de Magia e Bruxaria de Hogwarts, para cursar o 5º ano letivo. Logo ele descobre que boa parte da comunidade bruxa foi levada a acreditar que o retorno de Voldemort foi uma mentira inventada por Harry, o que põe sua credibilidade em dúvida. Além disto, o Ministro da Magia Cornélio Fudge impõe à escola a presença de Dolores Umbridge, que torna-se a nova professora de Defesa Contra as Artes das Trevas. Acontece que as aulas de Umbridge, apesar de aprovadas pelo ministério, abrangem apenas temas amenos, deixando os alunos despreparados para os perigos dos dias atuais. Incentivado por seus amigos Rony e Hermione, Harry decide encontrar-se em segredo com um grupo de estudantes, visando a prática de magia. O grupo se autodenomina como a \"Armada de Dumbledore\", mas logo passa a ser vista como uma ameaça ao próprio Ministério da Magia.",
+        "slogan": "O Mal Deve ser Confrontado",
+        "nota": 7.6,
+        "votantes": 11974,
+        "producao": [{
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Heyday Films",
+            "pais": "GB"
+        }]
+    }, {
+        "_id": "1035",
+        "titulo": "Harry Potter e a Câmara Secreta",
+        "data_de_lancamento": "2002-11-13",
+        "titulo_original": "Harry Potter and the Chamber of Secrets",
+        "generos": ["Aventura", "Fantasia"],
+        "pagina_web": "https://www.warnerbros.com/movies/harry-potter-and-chamber-secrets/",
+        "lingua_original": "en",
+        "resumo": "De férias na casa de seus tios Dursley, Harry Potter recebe a inesperada visita de Dobby, um elfo doméstico, que veio avisá-lo para não retornar à Escola de Magia de Hogwarts, pois lá correrá um grande perigo. Harry não lhe dá ouvidos e decide retornar aos estudos, enfrentando um 2º ano recheado de novidades. Uma delas é a contratação do novo Professor de Defesa Contra as Artes das Trevas, Gilderoy Lockhart, que é considerado um grande galã e não perde uma oportunidade de fazer marketing pessoal. Porém, o aviso de Dobby se confirma e logo toda Hogwarts está envolvida em um mistério que resulta no aparecimento de alunos petrificados.",
+        "slogan": "A Câmara Secreta foi aberta. Inimigos do herdeiro... cuidado!",
+        "nota": 7.7,
+        "votantes": 13118,
+        "producao": [{
+            "produtora": "1492 Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Heyday Films",
+            "pais": "GB"
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1036",
+        "titulo": "Harry Potter e o Cálice de Fogo",
+        "data_de_lancamento": "2005-11-16",
+        "titulo_original": "Harry Potter and the Goblet of Fire",
+        "generos": ["Aventura", "Fantasia", "Família"],
+        "pagina_web": "https://www.warnerbros.com/movies/harry-potter-and-goblet-fire/",
+        "lingua_original": "en",
+        "resumo": "Em seu 4º ano na Escola de Magia e Bruxaria de Hogwards, Harry Potter é misteriosamente selecionado para participar do Torneio Tribruxo, uma competição internacional em que precisará enfrentar alunos mais velhos e experientes de Hogwards e também de outras escolas de magia. Além disso a aparição da marca negra de Voldemort ao término da Copa do Mundo de Quadribol põe a comunidade de bruxos em pânico, já que sinaliza que o temido bruxo está prestes a retornar.",
+        "slogan": "Tempos sombrios estão chegando.",
+        "nota": 7.8,
+        "votantes": 12302,
+        "producao": [{
+            "produtora": "Patalex IV Productions Limited",
+            "pais": ""
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Heyday Films",
+            "pais": "GB"
+        }]
+    }, {
+        "_id": "1037",
+        "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+        "data_de_lancamento": "2004-05-31",
+        "titulo_original": "Harry Potter and the Prisoner of Azkaban",
+        "generos": ["Aventura", "Fantasia"],
+        "pagina_web": "https://www.warnerbros.com/movies/harry-potter-and-prisoner-azkaban/",
+        "lingua_original": "en",
+        "resumo": "O 3º ano de ensino na Escola de Magia e Bruxaria de Hogwarts se aproxima. Porém um grande perigo ronda a escola: o assassino Sirius Black fugiu da prisão de Azkaban, considerada até então como à prova de fugas. Para proteger a escola são enviados os Dementadores, estranhos seres que sugam a energia vital de quem se aproxima deles, que tanto podem defender a escola como piorar ainda mais a situação.",
+        "slogan": "Nada Será Como Antes / Segredos Serão Revelados",
+        "nota": 8,
+        "votantes": 12836,
+        "producao": [{
+            "produtora": "1492 Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Heyday Films",
+            "pais": "GB"
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1038",
+        "titulo": "Todo Mundo Quase Morto",
+        "data_de_lancamento": "2004-04-09",
+        "titulo_original": "Shaun of the Dead",
+        "generos": ["Terror", "Comédia"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Shaun (Simon Pegg) trabalha como vendedor e divide uma casa com Ed (Nick Frost), seu melhor amigo, e Pete (Peter Serafinowicz). Ele costuma ir sempre ao pub local, mas Liz (Kate Ashfield), sua namorada, está cansada de lá. Além disto ela sempre reclama que ele não se separa de Ed, apesar de suas piadas bobas e seu desinteresse em fazer algo útil. Para resolver a questão Shaun aceita marcar um encontro com Liz em outro restaurante, mas se esquece de fazer a reserva. Irritada, ela decide terminar com ele. Shaun, arrasado, se embebeda no seu pub predileto ao lado de Ed, sem notar que as pessoas à sua volta estão se tornando zumbis, devido a um estranho fenômeno.",
+        "slogan": "Uma comédia romântica. Com zumbis.",
+        "nota": 7.5,
+        "votantes": 5133,
+        "producao": [{
+            "produtora": "De Wolfe Music",
+            "pais": ""
+        }, {
+            "produtora": "Universal Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "WT2 Productions",
+            "pais": ""
+        }, {
+            "produtora": "StudioCanal",
+            "pais": "FR"
+        }, {
+            "produtora": "Working Title Films",
+            "pais": "GB"
+        }, {
+            "produtora": "Big Talk Productions",
+            "pais": "GB"
+        }, {
+            "produtora": "Inside Track 2",
+            "pais": ""
+        }, {
+            "produtora": "Film4 Productions",
+            "pais": "GB"
+        }]
+    }, {
+        "_id": "1039",
+        "titulo": "V de Vingança",
+        "data_de_lancamento": "2006-02-23",
+        "titulo_original": "V for Vendetta",
+        "generos": ["Ação", "Thriller", "Fantasia"],
+        "pagina_web": "http://vforvendetta.warnerbros.com/",
+        "lingua_original": "en",
+        "resumo": "Em uma Inglaterra do futuro, onde está em vigor um regime totalitário, vive Evey Hammond (Natalie Portman). Ela é salva de uma situação de vida ou morte por um homem mascarado, conhecido apenas pelo codinome V (Hugo Weaving), que é extremamente carismático e habilidoso na arte do combate e da destruição. Ao convocar seus compatriotas a se rebelar contra a tirania e a opressão do governo inglês, V provoca uma verdadeira revolução. Enquanto Evey tenta saber mais sobre o passado de V, ela termina por descobrir quem é e seu papel no plano de seu salvador para trazer liberdade e justiça ao país.",
+        "slogan": "Lembrai, lembrai do cinco de novembro.",
+        "nota": 7.9,
+        "votantes": 9004,
+        "producao": [{
+            "produtora": "Studio Babelsberg",
+            "pais": "DE"
+        }, {
+            "produtora": "Virtual Studios",
+            "pais": "US"
+        }, {
+            "produtora": "Anarchos Productions",
+            "pais": ""
+        }, {
+            "produtora": "Silver Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Medienboard Berlin-Brandenburg",
+            "pais": ""
+        }, {
+            "produtora": "Fünfte Babelsberg Film",
+            "pais": ""
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "DC Comics",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1040",
+        "titulo": "Harry Potter e o Enigma do Príncipe",
+        "data_de_lancamento": "2009-07-07",
+        "titulo_original": "Harry Potter and the Half-Blood Prince",
+        "generos": ["Aventura", "Fantasia"],
+        "pagina_web": "https://www.warnerbros.com/movies/harry-potter-and-half-blood-prince/",
+        "lingua_original": "en",
+        "resumo": "Lorde Voldemort é uma ameaça real, tanto para o mundo dos bruxos quanto o dos trouxas. Harry Potter suspeita que o perigo esteja dentro da Escola de Artes e Bruxaria de Hogwarts, mas Alvo Dumbledore está mais preocupado em prepará-lo para o confronto final com o Lorde das Trevas. Dumbledore convida seu colega Horácio Slughorn para ser o novo professor de Poções, já que Severo Snape enfim alcançou o sonho de ministrar as aulas de Defesa Contra as Artes das Trevas. Paralelamente Harry começa a ter um interesse cada vez maior por Gina Weasley, irmã de seu melhor amigo Rony, que também é alvo de interesse de Dino Thomas.",
+        "slogan": "Segredos escuros revelados",
+        "nota": 7.7,
+        "votantes": 11687,
+        "producao": [{
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Heyday Films",
+            "pais": "GB"
+        }]
+    }, {
+        "_id": "1041",
+        "titulo": "Shrek",
+        "data_de_lancamento": "2001-05-16",
+        "titulo_original": "Shrek",
+        "generos": ["Aventura", "Animação", "Comédia", "Família", "Fantasia"],
+        "pagina_web": "http://www.dreamworksanimation.com/shrek/",
+        "lingua_original": "en",
+        "resumo": "Em um pântano distante vive Shrek (Mike Myers), um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada, como três ratos cegos, um grande e malvado lobo e ainda três porcos que não têm um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad (John Lithgow). Determinado a recuperar a tranquilidade de antes, Shrek resolve encontrar Farquaad e com ele faz um acordo: todos os personagens poderão retornar aos seus lares se ele e seu amigo Burro (Eddie Murphy) resgatarem uma bela princesa (Cameron Diaz), que é prisioneira de um dragão. Porém, quando Shrek e o Burro enfim conseguem resgatar a princesa logo eles descobrem que seus problemas estão apenas começando.",
+        "slogan": "O conto de fadas nunca contado.",
+        "nota": 7.6,
+        "votantes": 9733,
+        "producao": [{
+            "produtora": "DreamWorks Animation",
+            "pais": "US"
+        }, {
+            "produtora": "Pacific Data Images",
+            "pais": "US"
+        }, {
+            "produtora": "DreamWorks Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1042",
+        "titulo": "Shrek 2",
+        "data_de_lancamento": "2004-05-19",
+        "titulo_original": "Shrek 2",
+        "generos": ["Aventura", "Animação", "Comédia", "Família", "Fantasia"],
+        "pagina_web": "http://www.shrek2.com/",
+        "lingua_original": "en",
+        "resumo": "Após se casar com a Princesa Fiona (Cameron Diaz), Shrek (Mike Myers) vive feliz em seu pântano. Ao retornar de sua lua-de-mel Fiona recebe uma carta de seus pais, que não sabem que ela agora é um ogro, convidando-a para um jantar juntamente com seu grande amor, na intenção de conhecê-lo. A muito custo Fiona consegue convencer Shrek a ir visitá-los, tendo ainda a companhia do Burro (Eddie Murphy). Porém os problemas começam quando os pais de Fiona descobrem que ela não se casou com o Príncipe (Rupert Everett), a quem havia sido prometida, e enviam o Gato de Botas (Antonio Banderas) para separá-los.",
+        "slogan": "Era uma outra vez...",
+        "nota": 7,
+        "votantes": 7011,
+        "producao": [{
+            "produtora": "DreamWorks Animation",
+            "pais": "US"
+        }, {
+            "produtora": "Pacific Data Images",
+            "pais": "US"
+        }, {
+            "produtora": "DreamWorks Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1043",
+        "titulo": "Círculo de Fogo",
+        "data_de_lancamento": "2001-03-14",
+        "titulo_original": "Enemy at the Gates",
+        "generos": ["Guerra", "História", "Romance", "Drama", "Ação"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Vasily Zaitsev (Jude Law) é um jovem atirador russo que, convencido por um companheiro político (Joseph Fiennes), torna-se o ícone da propaganda russa em plena 2ª Guerra Mundial. A fama de Vasily o torna uma lenda viva para o exército russo e desperta também a atenção do exército nazista, que envia seu melhor atirador de elite (Ed Harris) com o objetivo de matar aquele que se tornou a esperança de toda a Rússia.",
+        "slogan": "Uma única bala pode mudar a historia",
+        "nota": 7.3,
+        "votantes": 1920,
+        "producao": [{
+            "produtora": "Swanford Films",
+            "pais": ""
+        }, {
+            "produtora": "Paramount",
+            "pais": "US"
+        }, {
+            "produtora": "Mandalay Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "KC Medien",
+            "pais": ""
+        }, {
+            "produtora": "Reperage",
+            "pais": ""
+        }, {
+            "produtora": "DOS",
+            "pais": ""
+        }, {
+            "produtora": "MP Film Management",
+            "pais": ""
+        }, {
+            "produtora": "Little Bird",
+            "pais": "IE"
+        }]
+    }, {
+        "_id": "1044",
+        "titulo": "O Grande Truque",
+        "data_de_lancamento": "2006-10-19",
+        "titulo_original": "The Prestige",
+        "generos": ["Drama", "Mistério", "Thriller"],
+        "pagina_web": "http://wwws.warnerbros.de/theprestige/",
+        "lingua_original": "en",
+        "resumo": "Século XIX, Londres. Robert Angier (Hugh Jackman) e Alfred Borden (Christian Bale) se conhecem há muitos anos, desde que eram mágicos iniciantes. Desde então eles vivem competindo entre si, o que faz com que a amizade com o passar dos anos se transforme em uma grande rivalidade. Quando Alfred apresenta uma mágica revolucionária, Robert fica obcecado em descobrir como ele consegue realizá-la.",
+        "slogan": "Você está prestando atenção ?",
+        "nota": 8.2,
+        "votantes": 9228,
+        "producao": [{
+            "produtora": "Touchstone Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Syncopy",
+            "pais": "GB"
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1045",
+        "titulo": "Cartas de Iwo Jima",
+        "data_de_lancamento": "2006-12-19",
+        "titulo_original": "Letters from Iwo Jima",
+        "generos": ["Ação", "Drama", "Guerra"],
+        "pagina_web": "http://iwojimathemovie.warnerbros.com/lettersofiwojima/framework/framework.html",
+        "lingua_original": "en",
+        "resumo": "Junho de 1944. Tadamichi Kuribayashi (Ken Watanabe), o tenente-general do exército imperial japonês, chega na ilha de Iwo Jima. Muito respeitado por ser um hábil estrategista, Kuribayashi estudara nos Estados Unidos, onde fizera grandes amigos e conhecia o exército ocidental e sua capacidade tecnológica. Por isso o Japão colocou em suas mãos o destino de Iwo Jima, considerada a última linha defesa do país. Ao contrário dos outros comandantes Kuribayashi moderniza o modo de agir, alterando a estratégia que era usada. Ele supervisiona a construção de uma fortaleza subterrânea, feita de túneis que davam para as suas tropas a estratégia ideal contra as forças americanas, que começam a desembarcar na ilha em 19 de fevereiro de 1945.",
+        "slogan": "A batalha de Iwo Jima vista através dos olhos dos soldados japoneses.",
+        "nota": 7.5,
+        "votantes": 1079,
+        "producao": [{
+            "produtora": "Amblin Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "Malpaso Productions",
+            "pais": "US"
+        }, {
+            "produtora": "DreamWorks Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1046",
+        "titulo": "Mais Estranho que a Ficção",
+        "data_de_lancamento": "2006-09-09",
+        "titulo_original": "Stranger Than Fiction",
+        "generos": ["Comédia", "Drama", "Fantasia", "Romance"],
+        "pagina_web": "http://www.sonypictures.com/homevideo/strangerthanfiction",
+        "lingua_original": "en",
+        "resumo": "Certa manhã Harold Crick (Will Ferrell), um funcionário da Receita Federal, passa a ouvir seus pensamentos como se fossem narrados por uma voz feminina. A voz narra não apenas suas idéias, mas também seus sentimentos e atos com grande precisão. Apenas Harold consegue ouvir esta voz, o que o faz ficar agoniado. Esta sensação aumenta ainda mais quando descobre pela voz que está prestes a morrer, o que o faz desesperadamente tentar descobrir quem está falando em sua cabeça e como impedir sua própria morte.",
+        "slogan": "Mais Estranho que a Ficção",
+        "nota": 7.2,
+        "votantes": 1344,
+        "producao": [{
+            "produtora": "Three Strange Angels",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1047",
+        "titulo": "Sunshine - Alerta Solar",
+        "data_de_lancamento": "2007-04-05",
+        "titulo_original": "Sunshine",
+        "generos": ["Ficção científica", "Thriller"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "O Sol corre o risco de desaparecer e, caso isto ocorra, será o fim de toda a humanidade. A última esperança é a nave espacial Icarus II e sua tripulação de 8 pessoas, que transporta uma bomba atômica do tamanho da ilha de Manhattan, que teoricamente alimentará uma nova vida dentro do Sol. Porém, durante a viagem e sem contato com a Terra, eles descobrem o sinal de S.O.S. da Icarus I, a nave enviada 7 anos antes com o mesmo objetivo e cuja causa do fracasso é desconhecida. A tripulação fica dividida entre alterar a trajetória da missão, de forma a obter a bomba existente na Icarus I, o que traria à missão mais uma chance de sucesso, ou seguir o plano original. A decisão recai sobre Capa (Cillian Murphy), o físico da tripulação, que decide ir à outra nave. Porém a mudança de trajetória causa avarias à Icarus II, iniciando uma série de problemas enfrentados na reta final da missão.",
+        "slogan": "Alerta Solar",
+        "nota": 7,
+        "votantes": 2147,
+        "producao": [{
+            "produtora": "UK Film Council",
+            "pais": "GB"
+        }, {
+            "produtora": "DNA Films",
+            "pais": "GB"
+        }, {
+            "produtora": "Moving Picture Company",
+            "pais": "GB"
+        }, {
+            "produtora": "Ingenious Media",
+            "pais": "GB"
+        }]
+    }, {
+        "_id": "1048",
+        "titulo": "300",
+        "data_de_lancamento": "2007-03-07",
+        "titulo_original": "300",
+        "generos": ["Ação", "Aventura", "Guerra"],
+        "pagina_web": "http://300themovie.warnerbros.com",
+        "lingua_original": "en",
+        "resumo": "Grécia, 480 AC. Na Batalha de Termópilas, o rei Leônidas (Gerard Butler) e seus 300 guerreiros de Esparta lutam bravamente contra o numeroso exército do rei Xerxes (Rodrigo Santoro). Após três dias de muita luta, todos os espartanos são mortos. O sacrifício e a dedicação destes homens uniu a Grécia no combate contra o inimigo persa.",
+        "slogan": "Preparem-se para a glória.",
+        "nota": 7.1,
+        "votantes": 8878,
+        "producao": [{
+            "produtora": "Virtual Studios",
+            "pais": "US"
+        }, {
+            "produtora": "Legendary Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "Hollywood Gang Productions",
+            "pais": ""
+        }, {
+            "produtora": "Atmosphere Entertainment MM",
+            "pais": "US"
+        }, {
+            "produtora": "Nimar Studios",
+            "pais": "BG"
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Cruel & Unusual Films",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1049",
+        "titulo": "Fonte da Vida",
+        "data_de_lancamento": "2006-09-06",
+        "titulo_original": "The Fountain",
+        "generos": ["Drama", "Aventura", "Ficção científica", "Romance"],
+        "pagina_web": "http://thefountainmovie.warnerbros.com/",
+        "lingua_original": "en",
+        "resumo": "Na Espanha do século 16, o navegador Tomas Creo parte para o Novo Mundo em busca da lendária árvore da vida. Nos tempos atuais a mulher do pesquisador Tommy Creo está morrendo de câncer, mas ele busca desesperadamente a cura que pode salvá-la. Uma terceira história une as duas primeiras: no século 26, o astronauta Tom finalmente consegue a resposta para as questões fundamentais da existência.",
+        "slogan": "O amor pode ser eterno?",
+        "nota": 7,
+        "votantes": 1606,
+        "producao": [{
+            "produtora": "Regency Enterprises",
+            "pais": "US"
+        }, {
+            "produtora": "Protozoa Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "New Regency Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Muse Entertainment",
+            "pais": "CA"
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1050",
+        "titulo": "Café da Manhã em Plutão",
+        "data_de_lancamento": "2005-09-03",
+        "titulo_original": "Breakfast on Pluto",
+        "generos": ["Drama", "Comédia"],
+        "pagina_web": "http://www.breakfastonpluto.co.uk/",
+        "lingua_original": "en",
+        "resumo": "Irlanda, final da década de 1970. Deixado ainda bebê nas escadas de uma igreja, o travesti Patrick não abre mão de exercer sua identidade. Ao ir para Londres em busca da mãe, o rapaz se vê inadvertidamente envolvido em atividades do IRA.",
+        "slogan": "Mesmo mundo, planeta diferente!",
+        "nota": 7.3,
+        "votantes": 164,
+        "producao": [{
+            "produtora": "Pathé Pictures International",
+            "pais": "GB"
+        }, {
+            "produtora": "Screen Ireland",
+            "pais": "IE"
+        }, {
+            "produtora": "Northern Ireland Screen",
+            "pais": "GB"
+        }]
+    }, {
+        "_id": "1051",
+        "titulo": "A Espinha do Diabo",
+        "data_de_lancamento": "2001-04-20",
+        "titulo_original": "El espinazo del diablo",
+        "generos": ["Fantasia", "Drama", "Terror", "Thriller"],
+        "pagina_web": "",
+        "lingua_original": "es",
+        "resumo": "Depois que Carlos, um garoto de 12 anos cujo pai morreu na Guerra Civil Espanhola, chega a um orfanato ameaçador de meninos, ele descobre que a escola é assombrada e tem muitos segredos obscuros que ele deve descobrir.",
+        "slogan": "Os vivos sempre serão mais perigosos que os mortos.",
+        "nota": 7.3,
+        "votantes": 602,
+        "producao": [{
+            "produtora": "Producciones Anhelo",
+            "pais": ""
+        }, {
+            "produtora": "Canal+ España",
+            "pais": "ES"
+        }, {
+            "produtora": "Tequila Gang",
+            "pais": "MX"
+        }, {
+            "produtora": "Sogepaq",
+            "pais": ""
+        }, {
+            "produtora": "El Deseo",
+            "pais": "ES"
+        }]
+    }, {
+        "_id": "1052",
+        "titulo": "Os Infiltrados",
+        "data_de_lancamento": "2006-10-05",
+        "titulo_original": "The Departed",
+        "generos": ["Drama", "Thriller", "Crime"],
+        "pagina_web": "http://thedeparted.com",
+        "lingua_original": "en",
+        "resumo": "A polícia trava uma verdadeira guerra contra o crime organizado em Boston. Billy Costigan (Leonardo DiCaprio), um jovem policial, recebe a missão de se infiltrar na máfia, mais especificamente no grupo comandado por Frank Costello (Jack Nicholson). Aos poucos Billy conquista sua confiança, ao mesmo tempo em que Colin Sullivan (Matt Damon), um criminoso que foi infiltrado na polícia como informante de Costello, também ascende dentro da corporação. Tanto Billy quanto Colin sentem-se aflitos devido à vida dupla que levam, tendo a obrigação de sempre obter informações. Porém quando a máfia e a polícia descobrem que entre eles há um espião, a vida de ambos passa a correr perigo.",
+        "slogan": "Policiais ou criminosos. Quando você encara uma arma carregada, qual a diferença?",
+        "nota": 8.1,
+        "votantes": 8841,
+        "producao": [{
+            "produtora": "Vertigo Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "Media Asia Films",
+            "pais": ""
+        }, {
+            "produtora": "Initial Entertainment Group (IEG)",
+            "pais": ""
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Plan B Entertainment",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1053",
+        "titulo": "Apocalypto",
+        "data_de_lancamento": "2006-12-07",
+        "titulo_original": "Apocalypto",
+        "generos": ["Ação", "Aventura", "Drama", "Thriller"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Jaguar Paw (Rudy Youngblood) levava uma vida tranquila, que foi interrompida devido à uma invasão. Os governantes de um império maia em declínio acreditavam que a chave para a prosperidade seria construir mais templos e realizar mais sacrifícios humanos. Jaguar é capturado para ser um destes sacrifícios, mas consegue escapar por acaso. Agora, guiado apenas pelo amor que sente por sua esposa e pela filha, ele realiza uma corrida desesperada para chegar em casa e salvar sua família.",
+        "slogan": "Ninguém pode fugir do seu próprio destino.",
+        "nota": 7.4,
+        "votantes": 2570,
+        "producao": [{
+            "produtora": "Icon Entertainment International",
+            "pais": "GB"
+        }, {
+            "produtora": "Icon Productions",
+            "pais": "US"
+        }, {
+            "produtora": "Touchstone Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1054",
+        "titulo": "Chicago",
+        "data_de_lancamento": "2002-12-26",
+        "titulo_original": "Chicago",
+        "generos": ["Comédia", "Crime", "Drama"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Velma Kelly (Catherine Zeta-Jones) é uma famosa dançarina que é também a principal atração da boate onde trabalha. Após matar seu marido, Velma entra em uma seleta lista de assassinas de Chicago, a qual é controlada por Billy Flynn (Richard Gere), um advogado que busca sempre se aproveitar ao máximo da situação. Ao contrário do que se esperava, o assassinato faz com que a fama de Velma cresça ainda mais, tornando-a uma verdadeira celebridade do showbizz. Enquanto isso, a aspirante a cantora Roxie Hart (Renée Zellweger) sonha com um mundo de glamour e fama, até que mata seu namorado após uma briga. Billy fica sabendo do crime e decide adiar ao máximo o julgamento de Velma, de forma a poder explorar os dois assassinatos ao máximo nos jornais. Assim como ocorreu com Velma, Roxie também se torna uma estrela por causa de crime que cometeu, iniciando uma disputa entre as duas pelo posto de maior celebridade do meio artístico.",
+        "slogan": "Se você não pode ser famoso, seja infame.",
+        "nota": 7.2,
+        "votantes": 1510,
+        "producao": [{
+            "produtora": "Miramax",
+            "pais": "US"
+        }, {
+            "produtora": "Producers Circle",
+            "pais": ""
+        }, {
+            "produtora": "Storyline Entertainment",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1055",
+        "titulo": "Homem de Ferro",
+        "data_de_lancamento": "2008-04-30",
+        "titulo_original": "Iron Man",
+        "generos": ["Ação", "Ficção científica", "Aventura"],
+        "pagina_web": "https://www.marvel.com/movies/iron-man",
+        "lingua_original": "en",
+        "resumo": "Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.",
+        "slogan": "Heróis não nascem. Eles são construídos.",
+        "nota": 7.6,
+        "votantes": 17295,
+        "producao": [{
+            "produtora": "Marvel Studios",
+            "pais": "US"
+        }, {
+            "produtora": "Paramount",
+            "pais": "US"
+        }, {
+            "produtora": "Fairview Entertainment",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1056",
+        "titulo": "A Professora de Piano",
+        "data_de_lancamento": "2001-07-21",
+        "titulo_original": "La Pianiste",
+        "generos": ["Drama", "Romance"],
+        "pagina_web": "",
+        "lingua_original": "fr",
+        "resumo": "Erika Kohut trabalha como professora de piano no Conservatório de Viena. Ela não bebe nem fuma, vivendo na casa de sua mãe aos 40 anos. Quando não está dando aulas Erika costuma frequentar cinemas pornôs e peep-shows, em busca de excitação. Logo ela inicia um relacionamento com Walter Klemmer, um de seus alunos, com quem realiza vários jogos perversos.",
+        "slogan": "Perversão no seu Melhor Mau!",
+        "nota": 7.4,
+        "votantes": 470,
+        "producao": [{
+            "produtora": "ARTE",
+            "pais": "FR"
+        }, {
+            "produtora": "Bavaria Film International",
+            "pais": ""
+        }, {
+            "produtora": "Centre National de la Cinématographie",
+            "pais": "FR"
+        }, {
+            "produtora": "Canal+",
+            "pais": "FR"
+        }, {
+            "produtora": "ARTE France Cinéma",
+            "pais": "FR"
+        }, {
+            "produtora": "Bayerischer Rundfunk",
+            "pais": "DE"
+        }]
+    }, {
+        "_id": "1057",
+        "titulo": "Guerra nas Estrelas: Episódio III - A Vingança dos Sith",
+        "data_de_lancamento": "2005-05-17",
+        "titulo_original": "Star Wars: Episode III - Revenge of the Sith",
+        "generos": ["Ficção científica", "Aventura", "Ação"],
+        "pagina_web": "https://www.starwars.com/films/star-wars-episode-iii-revenge-of-the-sith",
+        "lingua_original": "en",
+        "resumo": "As Guerras Clônicas estão em pleno andamento e as diferenças entre o Conselho Jedi e o Chanceler Palpatine (Ian McDiarmid) aumentam cada vez mais. Anakin Skywalker (Hayden Christensen) mantém um elo de lealdade com Palpatine, ao mesmo tempo em que luta para que seu casamento com Padmé Amidala (Natalie Portman) não seja afetado por esta situação. Seduzido por promessas de poder, Anakin se aproxima cada vez mais de Darth Sidious (Ian McDiarmid) até se tornar o temível Darth Vader. Juntos eles tramam um plano para aniquilar de uma vez por todas com os cavaleiros jedi.",
+        "slogan": "A saga esta completa",
+        "nota": 7.3,
+        "votantes": 8424,
+        "producao": [{
+            "produtora": "Lucasfilm",
+            "pais": "US"
+        }, {
+            "produtora": "20th Century Fox",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1058",
+        "titulo": "Mar Adentro",
+        "data_de_lancamento": "2004-09-03",
+        "titulo_original": "Mar adentro",
+        "generos": ["Drama"],
+        "pagina_web": "",
+        "lingua_original": "es",
+        "resumo": "Ramón Sampedro (Javier Bardem) é um homem que luta para ter o direito de pôr fim à sua própria vida. Na juventude ele sofreu um acidente, que o deixou tetraplégico e preso a uma cama por 28 anos. Lúcido e extremamente inteligente, Ramón decide lutar na justiça pelo direito de decidir sobre sua própria vida, o que lhe gera problemas com a igreja, a sociedade e até mesmo seus familiares.",
+        "slogan": "A vida é um direito, não uma obrigação.",
+        "nota": 7.6,
+        "votantes": 467,
+        "producao": [{
+            "produtora": "Canal+",
+            "pais": "FR"
+        }, {
+            "produtora": "Sogecine",
+            "pais": ""
+        }, {
+            "produtora": "Himenóptero",
+            "pais": ""
+        }, {
+            "produtora": "Eurimages",
+            "pais": "FR"
+        }, {
+            "produtora": "Union Générale Cinématographique (UGC)",
+            "pais": "FR"
+        }, {
+            "produtora": "Televisión de Galicia (TVG)",
+            "pais": "ES"
+        }, {
+            "produtora": "Ministerio de Cultura",
+            "pais": ""
+        }, {
+            "produtora": "Sogepaq",
+            "pais": ""
+        }, {
+            "produtora": "Eyescreen S.r.l.",
+            "pais": ""
+        }, {
+            "produtora": "Filmanova",
+            "pais": ""
+        }, {
+            "produtora": "Televisión Española",
+            "pais": "ES"
+        }]
+    }, {
+        "_id": "1059",
+        "titulo": "Os Outros",
+        "data_de_lancamento": "2001-08-02",
+        "titulo_original": "The Others",
+        "generos": ["Terror", "Drama", "Mistério", "Thriller"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Uma mãe e seus dois filhos com hipersensibilidade a luz se convencem de que sua casa está assombrada.",
+        "slogan": "Você acredita em fantasmas? Ela não!",
+        "nota": 7.6,
+        "votantes": 3611,
+        "producao": [{
+            "produtora": "Cruise/Wagner Productions",
+            "pais": ""
+        }, {
+            "produtora": "Canal+",
+            "pais": "FR"
+        }, {
+            "produtora": "Sogecine",
+            "pais": ""
+        }, {
+            "produtora": "Las Producciones del Escorpion",
+            "pais": ""
+        }, {
+            "produtora": "Lucky Red",
+            "pais": "IT"
+        }, {
+            "produtora": "Dimension Films",
+            "pais": "US"
+        }, {
+            "produtora": "Miramax",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1060",
+        "titulo": "Zodíaco",
+        "data_de_lancamento": "2007-03-02",
+        "titulo_original": "Zodiac",
+        "generos": ["Crime", "Drama", "Mistério", "Thriller"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "1º de agosto de 1969. Três cartas diferentes chegam aos jornais San Francisco Chronicle, San Francisco Examiner e Vallejo Times-Herald, enviadas pelo mesmo remetente. A carta enviada ao Chronicle trazia a confissão de um assassino, dando detalhes da morte de 3 pessoas e da tentativa de homicídio de outra, com informações que apenas a polícia e o assassino poderiam saber. As três cartas formavam um código que supostamente revelaria sua identidade ao ser decifrado. O assassino exigia que as cartas fossem publicadas, caso contrário mais pessoas morreriam.",
+        "slogan": "Existem mais de uma maneira de perder a vida para um assassino.",
+        "nota": 7.5,
+        "votantes": 5187,
+        "producao": [{
+            "produtora": "Paramount",
+            "pais": "US"
+        }, {
+            "produtora": "Phoenix Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1061",
+        "titulo": "O Jardineiro Fiel",
+        "data_de_lancamento": "2005-08-31",
+        "titulo_original": "The Constant Gardener",
+        "generos": ["Drama", "Mistério", "Thriller"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Uma ativista (Rachel Weisz) é encontrada assassinada em uma área remota do Quênia. O principal suspeito do crime é seu sócio, um médico que encontra-se atualmente foragido. Perturbado pelas infidelidades da esposa, Justin Quayle (Ralph Fiennes) decide partir para descobrir o que realmente aconteceu com sua esposa, iniciando uma viagem que o levará por três continentes.",
+        "slogan": "A Conspíração é Global",
+        "nota": 7.1,
+        "votantes": 790,
+        "producao": [{
+            "produtora": "Scion Films",
+            "pais": "GB"
+        }, {
+            "produtora": "Studio Babelsberg",
+            "pais": "DE"
+        }, {
+            "produtora": "Epsilon Motion Pictures",
+            "pais": "CH"
+        }, {
+            "produtora": "UK Film Council",
+            "pais": "GB"
+        }, {
+            "produtora": "Focus Features",
+            "pais": "US"
+        }, {
+            "produtora": "Blue Sky Films",
+            "pais": ""
+        }, {
+            "produtora": "Potboiler Productions",
+            "pais": "GB"
+        }]
+    }, {
+        "_id": "1062",
+        "titulo": "Ratatouille",
+        "data_de_lancamento": "2007-06-22",
+        "titulo_original": "Ratatouille",
+        "generos": ["Animação", "Comédia", "Família", "Fantasia"],
+        "pagina_web": "http://disney.go.com/disneypictures/ratatouille",
+        "lingua_original": "en",
+        "resumo": "Paris. Remy (Patton Oswalt) é um rato que sonha se tornar um grande chef. Só que sua família é contra a idéia, além do fato de que, por ser um rato, ele sempre é expulso das cozinhas que visita. Um dia, enquanto estava nos esgotos, ele fica bem embaixo do famoso restaurante de seu herói culinário, Auguste Gusteau (Brad Garrett). Ele decide visitar a cozinha do lugar e lá conhece Linguini (Lou Romano), um atrapalhado ajudante que não sabe cozinhar e precisa manter o emprego a qualquer custo. Remy e Linguini realizam uma parceria, em que Remy fica escondido sob o chapéu de Linguini e indica o que ele deve fazer ao cozinhar.",
+        "slogan": "Ele vai fazer de tudo para ser um chef.",
+        "nota": 7.7,
+        "votantes": 10100,
+        "producao": [{
+            "produtora": "Pixar",
+            "pais": "US"
+        }, {
+            "produtora": "Walt Disney Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1063",
+        "titulo": "Uma Mulher Contra Hitler",
+        "data_de_lancamento": "2005-02-13",
+        "titulo_original": "Sophie Scholl – Die letzten Tage",
+        "generos": ["Drama", "História"],
+        "pagina_web": "http://www.sophiescholl-derfilm.de/",
+        "lingua_original": "de",
+        "resumo": "Em 1943, Hitler marcha pela Europa em sua devastadora ofensiva. Em Munique, um grupo de jovens universitários apela para a resistência como forma de conter a máquina de guerra nazista. Assim, nasce o Rosa Branca. A única mulher que participa do grupo é Sophie Scholl (Julia Jentsch). Enquanto distribuíam panfletos Sophie e seu irmão, Hans (Fabian Hinrichs), são presos. Os dias que se seguem são de intensos interrogatórios conduzidos pelos oficiais da Gestapo, nos quais ela tenta proteger a qualquer custo os membros da organização.",
+        "slogan": "Os últimos dias",
+        "nota": 7.2,
+        "votantes": 233,
+        "producao": [{
+            "produtora": "Goldkind Filmproduktion",
+            "pais": ""
+        }, {
+            "produtora": "Broth Film",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1064",
+        "titulo": "Amor e Inocência",
+        "data_de_lancamento": "2007-03-02",
+        "titulo_original": "Becoming Jane",
+        "generos": ["Drama", "Romance"],
+        "pagina_web": "http://becomingjane-themovie.com/",
+        "lingua_original": "en",
+        "resumo": "Um retrato biográfico de Jane Austen de antes da fama e seu romance com um jovem irlandês.\r O ano é 1795. Jane Austen (Anne Hathaway) tem 20 anos e começa a se destacar como uma escritora. Enquanto ela está mais interessada em desvendar o mundo, seus pais querem que ela logo se case com um homem rico, que possa assegurar seu status perante a sociedade. O principal candidato é o sr. Wisley (Laurence Fox), neto da aristocrata Lady Gresham (Maggie Smith), mas Jane se interessa é pelo malandro Tom Lefroy (James McAvoy), cuja inteligência e arrogância a provocam.",
+        "slogan": "Sua própria vida é sua maior inspiração.",
+        "nota": 7.2,
+        "votantes": 693,
+        "producao": [{
+            "produtora": "Ecosse Films",
+            "pais": "GB"
+        }, {
+            "produtora": "2 Entertain",
+            "pais": ""
+        }, {
+            "produtora": "Bueprint Pictures",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1065",
+        "titulo": "Identidade",
+        "data_de_lancamento": "2003-04-25",
+        "titulo_original": "Identity",
+        "generos": ["Mistério", "Thriller"],
+        "pagina_web": "https://www.sonypictures.com/movies/identity",
+        "lingua_original": "en",
+        "resumo": "Uma violenta tempestade faz com que um grupo de pessoas busque abrigo em um motel desolado, gerenciado por um jovem bastante nervoso (John Hawkes). Entre eles estão um motorista de limusine (John Cusack), uma estrela da TV da década de 80 (Rebecca De Mornay), um policial (Ray Liotta) encarregado de escoltar um assassino (Jake Busey), um casal de recém-casados (Clea DuVall e William Lee Scott) e uma família em crise. De início todos se sentem aliviados por encontrarem um lugar para ficar em meio à tempestade, mas logo entram em pânico ao perceber que, um a um, todos estão sendo assassinados em nome de um misterioso segredo que une a presença de todos naquele lugar.",
+        "slogan": "O segredo está lá dentro.",
+        "nota": 7.2,
+        "votantes": 2100,
+        "producao": [{
+            "produtora": "Konrad Pictures",
+            "pais": ""
+        }, {
+            "produtora": "Columbia Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1066",
+        "titulo": "A Troca",
+        "data_de_lancamento": "2008-01-30",
+        "titulo_original": "Changeling",
+        "generos": ["Crime", "Drama", "Mistério"],
+        "pagina_web": "http://www.changelingmovie.net",
+        "lingua_original": "en",
+        "resumo": "Los Angeles, março de 1928. Christine Collins, uma mãe solteira, se despede de Walter, seu filho de 9 anos, e parte rumo ao trabalho. Ao retornar descobre que Walter desapareceu, o que faz com que inicie uma busca exaustiva. Cinco meses depois a polícia traz uma criança, dizendo ser Walter. Atordoada pela emoção da situação, além da presença de policiais e jornalistas que desejam tirar proveito da repercussão do caso, Christine aceita a criança. Porém, no íntimo, ela sabe que ele não é Walter e, com isso, pressiona as autoridades para que continuem as buscas por ele.",
+        "slogan": "Para encontrar seu filho, ela fez o que ninguém jamais ousou.",
+        "nota": 7.5,
+        "votantes": 2330,
+        "producao": [{
+            "produtora": "Imagine Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "Malpaso Productions",
+            "pais": "US"
+        }, {
+            "produtora": "Relativity Media",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1067",
+        "titulo": "Azul Escuro Quase Preto",
+        "data_de_lancamento": "2006-03-24",
+        "titulo_original": "Azuloscurocasinegro",
+        "generos": ["Drama"],
+        "pagina_web": "",
+        "lingua_original": "es",
+        "resumo": "Os destinos de vários personagens se interligam em torno de Jorge, um rapaz que acredita ter sido responsável pelo derrame do seu pai e que assume seu trabalho de porteiro enquanto termina a faculdade. Além disso, tenta ajudar seu irmão que está na cadeia e que é apaixonado por Paula, com quem desenvolve um relacionamento bastante incomum e ainda convive com as incertezas do amigo Israel que descobriu que seu pai é homossexual. Com tudo isso em jogo Jorge resolve mudar de vida…ou não.",
+        "slogan": "Se sua vida não é da cor que você gostaria...mude-a!",
+        "nota": 7,
+        "votantes": 47,
+        "producao": [{
+            "produtora": "Tesela Producciones Cinematográficas",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1068",
+        "titulo": "Veer-Zaara",
+        "data_de_lancamento": "2004-11-12",
+        "titulo_original": "वीर-ज़ारा",
+        "generos": ["Drama", "Romance"],
+        "pagina_web": "",
+        "lingua_original": "hi",
+        "resumo": "Saamiya Siddiqui, é uma jovem advogada paquistanesa que pega como primeiro caso algo impossível de vencer. O acusado, Veer, não fala com ninguém durante os vinte e dois anos que passou preso, porém, por ter sido tratado com dignidade por Saamiya, Veer, lhe conta sua história de amor, da Índia ao Paquistão, e também sobre sua amada, Zaara.",
+        "slogan": "Uma Lenda do Amor",
+        "nota": 7.4,
+        "votantes": 138,
+        "producao": [{
+            "produtora": "Yash Raj Films",
+            "pais": "IN"
+        }]
+    }, {
+        "_id": "1069",
+        "titulo": "Orgulho e Preconceito",
+        "data_de_lancamento": "2005-09-16",
+        "titulo_original": "Pride & Prejudice",
+        "generos": ["Drama", "Romance"],
+        "pagina_web": "http://www.prideandprejudicemovie.net/splash.html",
+        "lingua_original": "en",
+        "resumo": "Inglaterra, 1797. As cinco irmãs Bennet - Elizabeth (Keira Knightley), Jane (Rosamund Pike), Lydia (Jena Malone), Mary (Talulah Riley) e Kitty (Carey Mulligan) - foram criadas por uma mãe (Brenda Blethyn) que tinha fixação em lhes encontrar maridos que garantissem seu futuro. Porém Elizabeth deseja ter uma vida mais ampla do que apenas se dedicar ao marido, sendo apoiada pelo pai (Donald Sutherland). Quando o sr. Bingley (Simon Woods), um solteiro rico, passa a morar em uma mansão vizinha, as irmãs logo ficam agitadas. Jane logo parece que conquistará o coração do novo vizinho, enquanto que Elizabeth conhece o bonito e esnobe sr. Darcy (Matthew Macfadyen). Os encontros entre Elizabeth e Darcy passam a ser cada vez mais constantes, apesar deles sempre discutirem.",
+        "slogan": "Um romance à frente de seu tempo.",
+        "nota": 7.9,
+        "votantes": 3785,
+        "producao": [{
+            "produtora": "Scion Films",
+            "pais": "GB"
+        }, {
+            "produtora": "Focus Features",
+            "pais": "US"
+        }, {
+            "produtora": "Universal Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "StudioCanal",
+            "pais": "FR"
+        }, {
+            "produtora": "Working Title Films",
+            "pais": "GB"
+        }]
+    }, {
+        "_id": "1070",
+        "titulo": "Candy",
+        "data_de_lancamento": "2006-05-25",
+        "titulo_original": "Candy",
+        "generos": ["Drama", "Romance"],
+        "pagina_web": "http://www.dendyfilms.com.au/candy/",
+        "lingua_original": "en",
+        "resumo": "Candy é uma pintora jovem e talentosa e Dan, um poeta promissor. Ambos são viciados em drogas. Quando se encontram, é amor à primeira vista. No início, sentem como se tivessem encontrado o paraíso. Mas, como em todos os paraísos, também neste há um pecado original: a heroína. Ambos acreditam que a felicidade não tem limites. Com o decorrer do tempo, percebem que não têm como sobreviver. Candy precisa se prostituir, e Dan não a impede. Eles decidem fortalecer o amor que os une e se casam.",
+        "slogan": "Mais Nunca é Suficiente.",
+        "nota": 7.2,
+        "votantes": 330,
+        "producao": [{
+            "produtora": "Paradigm Hyde Films",
+            "pais": ""
+        }, {
+            "produtora": "Film Finance Group",
+            "pais": ""
+        }, {
+            "produtora": "New South Wales Film & Television Office",
+            "pais": "AU"
+        }]
+    }, {
+        "_id": "1071",
+        "titulo": "Medo",
+        "data_de_lancamento": "2003-06-13",
+        "titulo_original": "장화, 홍련",
+        "generos": ["Drama", "Terror", "Mistério"],
+        "pagina_web": "",
+        "lingua_original": "ko",
+        "resumo": "Duas irmãs voltam para casa após passar um tempo em um internato. Elas são recebidas de braços abertos pela madrasta, que logo depois se mostra uma mulher cruel. Aos poucos, acontecimentos perturbadores vão deixar os nervos à flor da pele. Todos escondem um mistério horripilante. Há outras almas presentes no ar. Almas que não estão em paz.",
+        "slogan": "Nossa tristeza foi concebida muito antes de nosso nascimento.",
+        "nota": 7.1,
+        "votantes": 497,
+        "producao": [{
+            "produtora": "Bom Film Productions",
+            "pais": "KR"
+        }, {
+            "produtora": "Masulpiri Films",
+            "pais": ""
+        }, {
+            "produtora": "Chungeorahm Film",
+            "pais": "KR"
+        }, {
+            "produtora": "Barunson E&A",
+            "pais": "KR"
+        }]
+    }, {
+        "_id": "1072",
+        "titulo": "O Curioso Caso de Benjamin Button",
+        "data_de_lancamento": "2008-12-25",
+        "titulo_original": "The Curious Case of Benjamin Button",
+        "generos": ["Fantasia", "Drama", "Thriller", "Mistério", "Romance"],
+        "pagina_web": "http://www.benjaminbutton.com/",
+        "lingua_original": "en",
+        "resumo": "Conta a história de Benjamin Button, um homem que começa a envelhecer para trás com consequências bizarras.",
+        "slogan": "A vida não é medida em minutos, mas sim em momentos.",
+        "nota": 7.5,
+        "votantes": 7540,
+        "producao": [{
+            "produtora": "Paramount",
+            "pais": "US"
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "The Kennedy/Marshall Company",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1073",
+        "titulo": "Paprika",
+        "data_de_lancamento": "2006-10-01",
+        "titulo_original": "パプリカ",
+        "generos": ["Animação", "Drama", "Mistério", "Ficção científica", "Thriller"],
+        "pagina_web": "http://www.sonyclassics.com/paprika/",
+        "lingua_original": "ja",
+        "resumo": "Em um futuro próximo, o Dr. Tokita inventa um poderoso aparelho chamado DC Mini, que torna possível o acesso aos sonhos das pessoas. Sua colega, a Dra. Chiba, psicoterapeuta e pesquisadora de ponta, desenvolve um tratamento psiquiátrico revolucionário a partir do aparelho. Mas, antes de seu uso ser sancionado pelo governo, o DC Mini é roubado. Então eles mergulham no mundo do inconsciente para descobrir quem está por trás do crime.",
+        "slogan": "Agora é a vez do seu cérebro entrar no mundo da animação.",
+        "nota": 7.8,
+        "votantes": 1002,
+        "producao": [{
+            "produtora": "Paprika Film Partners",
+            "pais": ""
+        }, {
+            "produtora": "Madhouse",
+            "pais": "JP"
+        }]
+    }, {
+        "_id": "1074",
+        "titulo": "O Som do Coração",
+        "data_de_lancamento": "2007-11-21",
+        "titulo_original": "August Rush",
+        "generos": ["Família", "Drama", "Música"],
+        "pagina_web": "http://augustrushmovie.warnerbros.com/",
+        "lingua_original": "en",
+        "resumo": "August Rush (Freddie Highmore) é resultado do encontro casual entre um guitarrista e uma violoncelista. Crescido em orfanato e dotado de um dom musical impressionante, ele se apresenta nas ruas de Nova York ao lado do divertido Wizard (Robin Williams). Contando apenas com seu talento musical, August decide usá-lo para tentar reencontrar seus pais.",
+        "slogan": "Uma viagem fantástica à velocidade do som",
+        "nota": 7.3,
+        "votantes": 1736,
+        "producao": [{
+            "produtora": "CJ Entertainment",
+            "pais": "KR"
+        }, {
+            "produtora": "Southpaw Entertainment",
+            "pais": ""
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1075",
+        "titulo": "Ser e Ter",
+        "data_de_lancamento": "2002-08-28",
+        "titulo_original": "Être et avoir",
+        "generos": ["Documentário"],
+        "pagina_web": "",
+        "lingua_original": "fr",
+        "resumo": "Com uma paisagem de montanhas e terras agrícolas, o documentário segue um grupo de crianças entre quatro e doze anos que estudam em um pequena escola de vila em Auvergne. Mostrando o dia a dia das crianças, a intenção é mostra como elas aprender a viver lado a lado e  conviver com os outros e seus desejos.",
+        "slogan": "Ser e Ter",
+        "nota": 7.5,
+        "votantes": 58,
+        "producao": [{
+            "produtora": "Gimages 204",
+            "pais": ""
+        }, {
+            "produtora": "Les Films d'Ici",
+            "pais": "FR"
+        }]
+    }, {
+        "_id": "1076",
+        "titulo": "Assassinato em Gosford Park",
+        "data_de_lancamento": "2001-11-07",
+        "titulo_original": "Gosford Park",
+        "generos": ["Drama", "Mistério", "Thriller"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Situada em 1930, a história se passa em uma antiga casa de campo Inglesa onde uma festa de fim de semana está em andamento. A história gira em torno da família McCordle, particularmente o homem da casa, William McCordle. Entrado nos anos, William tornou-se benfeitor para muitos de seus parentes e amigos. Conforme o fim de semana passa, segredos são revelados, e parece que todos, acima e abaixo das escadas, quer um pedaço de William e de seu dinheiro. Mas, o quão longe eles irão para obtê-lo?",
+        "slogan": "Chá às 4. Jantar às 8. Assassinato a Meia-Noite.",
+        "nota": 7,
+        "votantes": 539,
+        "producao": [{
+            "produtora": "USA Films",
+            "pais": ""
+        }, {
+            "produtora": "Sandcastle 5 Productions",
+            "pais": "US"
+        }, {
+            "produtora": "Chicagofilms",
+            "pais": ""
+        }, {
+            "produtora": "Capitol Films",
+            "pais": ""
+        }, {
+            "produtora": "Film Council",
+            "pais": ""
+        }, {
+            "produtora": "Medusa Film",
+            "pais": "IT"
+        }]
+    }, {
+        "_id": "1077",
+        "titulo": "Eu Sou a Lenda",
+        "data_de_lancamento": "2007-12-14",
+        "titulo_original": "I Am Legend",
+        "generos": ["Drama", "Terror", "Ação", "Thriller", "Ficção científica"],
+        "pagina_web": "http://iamlegend.warnerbros.com",
+        "lingua_original": "en",
+        "resumo": "Um terrível vírus incurável, criado pelo homem, dizimou a população de Nova York. Robert Neville (Will Smith) é um cientista brilhante que, sem saber como, tornou-se imune ao vírus. Há 3 anos ele percorre a cidade enviando mensagens de rádio, na esperança de encontrar algum sobrevivente. Robert é sempre acompanhado por vítimas mutantes do vírus, que aguardam o momento certo para atacá-lo. Paralelamente ele realiza testes com seu próprio sangue, buscando encontrar um meio de reverter os efeitos do vírus.",
+        "slogan": "O último homem na Terra não está sozinho",
+        "nota": 7.1,
+        "votantes": 9842,
+        "producao": [{
+            "produtora": "Village Roadshow Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Weed Road Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Original Film",
+            "pais": "US"
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Heyday Films",
+            "pais": "GB"
+        }, {
+            "produtora": "Overbrook Entertainment",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1078",
+        "titulo": "O Orfanato",
+        "data_de_lancamento": "2007-05-20",
+        "titulo_original": "El orfanato",
+        "generos": ["Terror", "Drama", "Thriller"],
+        "pagina_web": "",
+        "lingua_original": "es",
+        "resumo": "Uma mulher leva sua família de volta para sua casa de infância, que costumava ser um orfanato para crianças deficientes. Em pouco tempo, seu filho começa a se comunicar com um novo amigo invisível.",
+        "slogan": "Um conto de amor. Uma história de horror.",
+        "nota": 7.2,
+        "votantes": 1459,
+        "producao": [{
+            "produtora": "Telecinco Cinema",
+            "pais": "ES"
+        }, {
+            "produtora": "Rodar y Rodar",
+            "pais": "ES"
+        }]
+    }, {
+        "_id": "1079",
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "data_de_lancamento": "2007-11-08",
+        "titulo_original": "No Country for Old Men",
+        "generos": ["Crime", "Drama", "Thriller"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Texas, década de 80. Um traficante de drogas é encontrado no deserto por um caçador pouco esperto, Llewelyn Moss (Josh Brolin), que pega uma valise cheia de dinheiro mesmo sabendo que em breve alguém irá procurá-lo devido a isso. Logo Anton Chigurh (Javier Bardem), um assassino psicótico sem senso de humor e piedade, é enviado em seu encalço. Porém para alcançar Moss ele precisará passar pelo xerife local, Ed Tom Bell (Tommy Lee Jones).",
+        "slogan": "Não existe fuga sem rastro.",
+        "nota": 7.9,
+        "votantes": 6650,
+        "producao": [{
+            "produtora": "Paramount Vantage",
+            "pais": "US"
+        }, {
+            "produtora": "Miramax",
+            "pais": "US"
+        }, {
+            "produtora": "Scott Rudin Productions",
+            "pais": "US"
+        }, {
+            "produtora": "Mike Zoss Productions",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1080",
+        "titulo": "Coach Carter - Treino para a Vida",
+        "data_de_lancamento": "2005-01-14",
+        "titulo_original": "Coach Carter",
+        "generos": ["Drama"],
+        "pagina_web": "http://www.ibuyanessay.com/",
+        "lingua_original": "en",
+        "resumo": "Richmond, Califórnia, 1999. O dono de uma loja de artigos esportivos, Ken Carter (Samuel L. Jackson), aceita ser o técnico de basquete de sua antiga escola, onde conseguiu recordes e que fica em uma área pobre da cidade. Para surpresa de muitos ele impõe um rígido regime, em que os alunos que queriam participar do time tinham de assinar um contrato que incluía um comportamento respeitoso, modo adequado de se vestir e ter boas notas em todas as matérias. A resistência inicial dos jovens acaba e o time sob o comando de Carter vai se tornando imbatível. Quando o comportamento do time fica muito abaixo do desejável Carter descobre que muitos dos seus jogadores estão tendo um desempenho muito fraco nas salas de aula. Assim Carter toma uma atitude que espanta o time, o colégio e a comunidade.",
+        "slogan": "Treino para a Vida",
+        "nota": 7.5,
+        "votantes": 1205,
+        "producao": [{
+            "produtora": "Paramount",
+            "pais": "US"
+        }, {
+            "produtora": "MTV Films",
+            "pais": "US"
+        }, {
+            "produtora": "Tollin/Robbins Productions",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1081",
+        "titulo": "Tropa de Elite",
+        "data_de_lancamento": "2007-10-12",
+        "titulo_original": "Tropa de Elite",
+        "generos": ["Drama", "Ação", "Crime"],
+        "pagina_web": "http://www.tropadeeliteofilme.com.br/",
+        "lingua_original": "pt",
+        "resumo": "O dia-a-dia do grupo de policiais e de um capitão do BOPE (Wagner Moura), que quer deixar a corporação e tenta encontrar um substituto para seu posto. Paralelamente dois amigos de infância se tornam policiais e se destacam pela honestidade e honra ao realizar suas funções, se indignando com a corrupção existente no batalhão em que atuam.",
+        "slogan": "Missão dada é missão cumprida!",
+        "nota": 8,
+        "votantes": 1086,
+        "producao": [{
+            "produtora": "Universal Pictures do Brasil",
+            "pais": ""
+        }, {
+            "produtora": "The Weinstein Company",
+            "pais": "US"
+        }, {
+            "produtora": "Zazen Produções",
+            "pais": "BR"
+        }, {
+            "produtora": "Estúdios Mega",
+            "pais": ""
+        }, {
+            "produtora": "Quanta Centro de Produções Cinematográficas",
+            "pais": "BR"
+        }, {
+            "produtora": "Costa Films",
+            "pais": ""
+        }, {
+            "produtora": "Posto 9",
+            "pais": ""
+        }, {
+            "produtora": "Feijão Filmes",
+            "pais": "BR"
+        }]
+    }, {
+        "_id": "1082",
+        "titulo": "Antes de Partir",
+        "data_de_lancamento": "2007-12-25",
+        "titulo_original": "The Bucket List",
+        "generos": ["Drama", "Comédia"],
+        "pagina_web": "http://www.warnerbros.com/bucket-list",
+        "lingua_original": "en",
+        "resumo": "Carter Chambers é um homem casado, que há 46 anos trabalha como mecânico. Submetido a um tratamento experimental para combater o câncer, ele se sente mal no trabalho e com isso é internado em um hospital. Logo passa a ter como companheiro de quarto Edward Cole, um rico empresário que é dono do próprio hospital. Edward também está com câncer e, após ser operado, descobre que tem poucos meses de vida. O mesmo acontece com Carter, que decide escrever a \"lista da bota\", algo que seu professor de filosofia na faculdade passou como trabalho muitas décadas atrás. A lista consiste em desejos que Carter deseja realizar antes de morrer. Ao tomar conhecimento dela Edward propõe que eles a realizem, o que faz com que ambos viagem pelo mundo para aproveitar seus últimos meses de vida.",
+        "slogan": "Encontre a alegria de viver.",
+        "nota": 7.1,
+        "votantes": 2056,
+        "producao": [{
+            "produtora": "Two Ton Films",
+            "pais": ""
+        }, {
+            "produtora": "Zadan / Meron Productions",
+            "pais": ""
+        }, {
+            "produtora": "Reiner / Greisman Productions",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1083",
+        "titulo": "Como Estrelas na Terra",
+        "data_de_lancamento": "2007-12-21",
+        "titulo_original": "Taare Zameen Par",
+        "generos": ["Drama"],
+        "pagina_web": "http://www.taarezameenpar.com/",
+        "lingua_original": "hi",
+        "resumo": "É a história de uma criança que sofre com dislexia e custa a ser compreendida. O jovem Ishaan, não consegue acompanhar as aulas ou focar sua atenção, e é tratado com muita rudeza por seu pai. Após serem chamados pela escola, o pai decide levá-lo a um internato, atitude que leva o pequeno a entrar em depressão. Um professor substituto de artes, Nikumbh, logo percebe o problema de Ishaan, e entra em ação com seu plano para devolver a ele a vontade de viver.",
+        "slogan": "Toda Criança é Especial.",
+        "nota": 8,
+        "votantes": 460,
+        "producao": [{
+            "produtora": "Aamir Khan Productions",
+            "pais": "IN"
+        }, {
+            "produtora": "PVR Pictures",
+            "pais": "IN"
+        }]
+    }, {
+        "_id": "1084",
+        "titulo": "O Mestre das Armas",
+        "data_de_lancamento": "2006-01-26",
+        "titulo_original": "霍元甲",
+        "generos": ["Drama", "Ação"],
+        "pagina_web": "",
+        "lingua_original": "zh",
+        "resumo": "Baseado em história real, o longa-metragem retrata a jornada de Huo Yuanja (Jet Li), lendário mestre de Kung Fu e um dos maiores nomes das artes marciais de toda a história da China. No início do século 20, a China sofre uma verdadeira invasão cultural dos países do ocidente, que não respeitam os costumes deste povo. Mas os feitos do protagonista unificam a nação.",
+        "slogan": "Dominar os outros é sinal de força",
+        "nota": 7.4,
+        "votantes": 651,
+        "producao": [{
+            "produtora": "China Film Group Corporation",
+            "pais": "CN"
+        }, {
+            "produtora": "Beijing Film Studio",
+            "pais": ""
+        }, {
+            "produtora": "China Film Co-Production Corporation",
+            "pais": ""
+        }, {
+            "produtora": "Hero China International",
+            "pais": ""
+        }, {
+            "produtora": "Wide River Investments",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1085",
+        "titulo": "Antes que o Diabo Saiba que Você Está Morto",
+        "data_de_lancamento": "2007-09-26",
+        "titulo_original": "Before the Devil Knows You're Dead",
+        "generos": ["Crime", "Drama", "Thriller"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Andy, um corretor endividado, precisa de dinheiro rápido. Ele envolve o seu irmão mais novo, Hank, em um esquema para cometer o crime perfeito: roubar a joalheria dos seus pais. O plano dá errado e o patriarca da família quer fazer justiça com as próprias mãos, sem saber que os criminosos que ele procura são seus próprios filhos.",
+        "slogan": "Ninguém deveria se machucar.",
+        "nota": 7.1,
+        "votantes": 762,
+        "producao": [{
+            "produtora": "Michael Cerenzie Productions",
+            "pais": ""
+        }, {
+            "produtora": "Capitol Films",
+            "pais": ""
+        }, {
+            "produtora": "Linsefilm",
+            "pais": ""
+        }, {
+            "produtora": "Unity Productions",
+            "pais": ""
+        }, {
+            "produtora": "Funky Buddha Productions",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1086",
+        "titulo": "Pinte de Açafrão",
+        "data_de_lancamento": "2006-01-26",
+        "titulo_original": "रंग दे बसंती",
+        "generos": ["Comédia", "Drama", "História"],
+        "pagina_web": "",
+        "lingua_original": "hi",
+        "resumo": "Uma cineasta inglesa escala um grupo de atores estudantes para seu drama documental sobre a revolução da Índia contra o domínio britânico na década de 1920.",
+        "slogan": "Uma Geração Desperta.",
+        "nota": 7.5,
+        "votantes": 206,
+        "producao": [{
+            "produtora": "UTV Motion Pictures",
+            "pais": "IN"
+        }, {
+            "produtora": "Rakeysh Omprakash Mehra Pictures",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1087",
+        "titulo": "O Caçador de Pipas",
+        "data_de_lancamento": "2007-10-04",
+        "titulo_original": "The Kite Runner",
+        "generos": ["Drama"],
+        "pagina_web": "http://www.kiterunnermovie.com/",
+        "lingua_original": "en",
+        "resumo": "Kabul. Amir (Zekeria Ebrahimi) e Hassan (Ahmad Khan Mahmidzada) são dois amigos, que se divertem em um torneio de pipas. Após a vitória neste dia um ato de traição de um menino marcará para sempre a vida de ambos. Amir passa a viver nos Estados Unidos, retornando ao Afeganistão apenas após 20 anos. É quando ele enfrenta a mão de ferro do governo talibã para tentar consertar o ocorrido em seu passado.",
+        "slogan": "O Caçador de Pipas",
+        "nota": 7.3,
+        "votantes": 755,
+        "producao": [{
+            "produtora": "Wonderland Films",
+            "pais": ""
+        }, {
+            "produtora": "Sidney Kimmel Entertainment",
+            "pais": "US"
+        }, {
+            "produtora": "Participant Media",
+            "pais": "US"
+        }, {
+            "produtora": "MacDonald/Parkes Productions",
+            "pais": ""
+        }, {
+            "produtora": "China Film Co-Production Corporation",
+            "pais": ""
+        }, {
+            "produtora": "Beijing Happy Pictures Cultural Communications Co.",
+            "pais": ""
+        }, {
+            "produtora": "Kite Runner Holdings",
+            "pais": ""
+        }, {
+            "produtora": "Ebeling Group",
+            "pais": ""
+        }, {
+            "produtora": "Neal Street Productions",
+            "pais": "GB"
+        }, {
+            "produtora": "DreamWorks Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1088",
+        "titulo": "O Leitor",
+        "data_de_lancamento": "2008-12-10",
+        "titulo_original": "The Reader",
+        "generos": ["Drama", "Romance"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Na Alemanha pós-2ª Guerra Mundial o adolescente Michael Berg se envolve, por acaso, com Hanna Schmitz, uma mulher que tem o dobro de sua idade. Apesar das diferenças de classe, os dois se apaixonam e vivem uma bonita história de amor. Até que um dia Hanna desaparece misteriosamente. Oito anos se passam e Berg, então um interessado estudante de Direito, se surpreende ao reencontrar seu passado de adolescente quando acompanhava um polêmico julgamento por crimes de guerra cometidos pelos nazistas.",
+        "slogan": "Desvende esse Mistério.",
+        "nota": 7.4,
+        "votantes": 1676,
+        "producao": [{
+            "produtora": "The Weinstein Company",
+            "pais": "US"
+        }, {
+            "produtora": "Filmstiftung Nordrhein-Westfalen",
+            "pais": "DE"
+        }, {
+            "produtora": "Mirage Enterprises",
+            "pais": ""
+        }, {
+            "produtora": "Medienboard Berlin-Brandenburg",
+            "pais": ""
+        }, {
+            "produtora": "Mitteldeutsche Medienförderung (MDM)",
+            "pais": "DE"
+        }, {
+            "produtora": "Studio Babelsberg",
+            "pais": "DE"
+        }, {
+            "produtora": "FFA",
+            "pais": "DE"
+        }, {
+            "produtora": "Deutscher Filmförderfonds (DFFF)",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1089",
+        "titulo": "Samsara",
+        "data_de_lancamento": "2001-01-01",
+        "titulo_original": "Samsara",
+        "generos": ["Aventura", "Drama", "Romance"],
+        "pagina_web": "",
+        "lingua_original": "en",
+        "resumo": "Uma história de amor situada no Himalaia. Um monge budista não pode escolher entre a vida e o caminho do Buda.",
+        "slogan": "O que é mais importante: Satisfazer mil desejos ou conquistar apenas um?",
+        "nota": 7.4,
+        "votantes": 39,
+        "producao": [{
+            "produtora": "Fandango",
+            "pais": "IT"
+        }]
+    }, {
+        "_id": "1090",
+        "titulo": "Amor ou Consequência",
+        "data_de_lancamento": "2003-09-17",
+        "titulo_original": "Jeux d'enfants",
+        "generos": ["Drama", "Comédia", "Romance"],
+        "pagina_web": "",
+        "lingua_original": "fr",
+        "resumo": "Já adultos os melhores amigos Julien Janvier e Sophie Kowalsky continuam o estranho jogo que começaram quando crianças - uma competição destemida para superar o outro com atitudes ousadas e ultrajantes. Enquanto eles muitas vezes agem para aliviar uma dor um do outro, o jogo parece ser uma maneira de encobrir o fato de que eles são realmente feitos um para o outro.",
+        "slogan": "Do diretor Yann Samuell uma comédia de sucesso na França!",
+        "nota": 7.3,
+        "votantes": 1199,
+        "producao": [{
+            "produtora": "StudioCanal",
+            "pais": "FR"
+        }, {
+            "produtora": "Nord-Ouest Films",
+            "pais": "FR"
+        }]
+    }, {
+        "_id": "1091",
+        "titulo": "Mestre dos Mares - O Lado Mais Distante do Mundo",
+        "data_de_lancamento": "2003-11-14",
+        "titulo_original": "Master and Commander: The Far Side of the World",
+        "generos": ["Aventura", "Drama", "Guerra"],
+        "pagina_web": "http://www.masterandcommanderthefarsideoftheworld.com/",
+        "lingua_original": "en",
+        "resumo": "Jack Aubrey (Russell Crowe) é o capitão do H.M.S. Surprise, um dos principais navios de guerra da marinha britânica. Com seu país em guerra contra a França de Napoleão Bonaparte, Aubrey é atacado por um navio inimigo mais poderoso, que fere boa parte de sua tripulação e ainda danifica o navio. Aubrey então se sente dividido entre cumprir seu dever e tentar derrotar o inimigo ou retornar para cuidar dos feridos.",
+        "slogan": "Mestre dos Mares - O Lado Mais Distante do Mundo",
+        "nota": 7.1,
+        "votantes": 1683,
+        "producao": [{
+            "produtora": "Universal Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Samuel Goldwyn Films",
+            "pais": "US"
+        }, {
+            "produtora": "20th Century Fox",
+            "pais": "US"
+        }, {
+            "produtora": "Miramax",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1092",
+        "titulo": "Amém",
+        "data_de_lancamento": "2002-02-13",
+        "titulo_original": "Amen.",
+        "generos": ["Drama", "História"],
+        "pagina_web": "",
+        "lingua_original": "fr",
+        "resumo": "Kurt Gerstein (Ulrich Tukur) é um oficial do Terceiro Reich que trabalhou na elaboração do Zyklon B, gás mortífero originalmente desenvolvido para a matança de animais mas usado para exterminar milhares de judeus durante a 2ª Guerra Mundial. Gerstein se revolta com o que testemunha e tenta informar os aliados sobre as atrocidades nos campos de concentração. Católico, busca chamar a atenção do Vaticano, mas suas denúncias são ignoradas pelo alto clero. Apenas um jovem jesuíta lhe dá ouvidos e o ajuda a organizar uma campanha para que o Papa (Marcel Iures) quebre o silêncio e se manifeste contra as violências ocorridas em nome de uma suposta supremacia racial.",
+        "slogan": "Dois Homens... Dois Mundos... Uma Causa...",
+        "nota": 7,
+        "votantes": 167,
+        "producao": [{
+            "produtora": "K.G Productions",
+            "pais": ""
+        }, {
+            "produtora": "KC Medien",
+            "pais": ""
+        }, {
+            "produtora": "Katharina",
+            "pais": ""
+        }, {
+            "produtora": "Renn Productions",
+            "pais": ""
+        }, {
+            "produtora": "Canal+",
+            "pais": "FR"
+        }, {
+            "produtora": "TF1 Films Production",
+            "pais": "FR"
+        }]
+    }, {
+        "_id": "1093",
+        "titulo": "Kung-fusão",
+        "data_de_lancamento": "2004-02-10",
+        "titulo_original": "功夫",
+        "generos": ["Ação", "Comédia", "Crime", "Fantasia"],
+        "pagina_web": "",
+        "lingua_original": "cn",
+        "resumo": "Em uma cidade controlada pela gangue Axe, Sing (Stephen Chow) quer desesperadamente se tornar um membro. Ele vai para um cortiço comandado por excêntricos senhorios que se revelam mestres do kung fu disfarçados. As ações de Sing eventualmente acabam provocando um explosivo confronto de kung fu entre a gangue Axe e os senhorios. Apenas um lado irá vencer e apenas um herói irá emergir como o maior mestre do kung fu de todos.",
+        "slogan": "Vamos a Porrada",
+        "nota": 7.3,
+        "votantes": 1396,
+        "producao": [{
+            "produtora": "Star Overseas",
+            "pais": ""
+        }, {
+            "produtora": "China Film Co-Production Corporation",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1094",
+        "titulo": "Kung Fu Panda",
+        "data_de_lancamento": "2008-06-04",
+        "titulo_original": "Kung Fu Panda",
+        "generos": ["Aventura", "Animação", "Família", "Comédia"],
+        "pagina_web": "http://www.kungfupanda.com/",
+        "lingua_original": "en",
+        "resumo": "Po (Jack Black) é um urso panda desajeitado, que trabalha no restaurante de macarrão de sua família. Um dia ele é surpreendido ao saber que foi escolhido para cumprir uma antiga profecia, o que faz com que treine ao lado de seus ídolos no kung fu: os mestres Shifu (Dustin Hoffman), Garça (David Cross), Tigresa (Angelina Jolie), Louva-deus (Seth Rogen), Macaco (Jackie Chan) e Víbora (Lucy Liu). Quando o traiçoeiro leopardo da neve Tai Lung (Ian McShane) retorna, cabe a Po defender o Vale da Paz.",
+        "slogan": "Prepare-se para o inacreditável.",
+        "nota": 7.1,
+        "votantes": 6791,
+        "producao": [{
+            "produtora": "DreamWorks Animation",
+            "pais": "US"
+        }, {
+            "produtora": "Paramount",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1095",
+        "titulo": "Filhos da Esperança",
+        "data_de_lancamento": "2006-09-22",
+        "titulo_original": "Children of Men",
+        "generos": ["Drama", "Ação", "Thriller", "Ficção científica"],
+        "pagina_web": "http://www.universalstudiosentertainment.com/children-of-men/",
+        "lingua_original": "en",
+        "resumo": "Terra, 2027. A esperança no futuro é um bem escasso. Não se sabe o motivo, mas as mulheres não conseguem mais engravidar. O mais novo ser humano morreu aos 18 anos e a humanidade discute seriamente a possibilidade de extinção. Theodore Faron é um ex-ativista desiludido que se tornou um burocrata e que vive em uma Londres arrasada pela violência e pelas seitas nacionalistas em guerra. Procurado por sua ex-esposa Julian, Theodore é apresentado a uma jovem que misteriosamente está grávida. Eles passam a protegê-la a qualquer custo, por acreditar que a criança por vir seja a salvação da humanidade.",
+        "slogan": "Nenhuma criança nasce há 18 anos.",
+        "nota": 7.6,
+        "votantes": 4067,
+        "producao": [{
+            "produtora": "Universal Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Strike Entertainment",
+            "pais": ""
+        }, {
+            "produtora": "Hit & Run Productions",
+            "pais": ""
+        }]
+    }, {
+        "_id": "1096",
+        "titulo": "Os Incríveis",
+        "data_de_lancamento": "2004-11-05",
+        "titulo_original": "The Incredibles",
+        "generos": ["Ação", "Aventura", "Animação", "Família"],
+        "pagina_web": "http://disney.go.com/disneyvideos/animatedfilms/incredibles/main.html",
+        "lingua_original": "en",
+        "resumo": "Beto Pêra e sua mulher Helena estavam entre os maiores super-heróis do mundo, salvando inúmeras vidas e combatendo o mal diariamente. Quinze anos depois, eles foram forçados a adotar novas identidades e a mudar-se para o subúrbio, onde vivem como cidadãos comuns com seus três filhos: Violeta, Flecha e Zezé. Louco para voltar à ação, Beto tem a sua chance quando uma misteriosa ligação o intima a comparecer a uma ilha distante para receber uma missão ultra-secreta... E aí começa a toda aventura!.",
+        "slogan": "Uma superfamília.",
+        "nota": 7.7,
+        "votantes": 11675,
+        "producao": [{
+            "produtora": "Pixar",
+            "pais": "US"
+        }, {
+            "produtora": "Walt Disney Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1097",
+        "titulo": "Como Treinar o Seu Dragão",
+        "data_de_lancamento": "2010-03-10",
+        "titulo_original": "How to Train Your Dragon",
+        "generos": ["Fantasia", "Aventura", "Animação", "Família"],
+        "pagina_web": "http://www.howtotrainyourdragon.com/",
+        "lingua_original": "en",
+        "resumo": "Na ilha de Berk, os vikings dedicam a vida a combater e matar dragões. Soluço (Jay Baruchel), filho do chefe Stoico (Gerard Butler), não é diferente. Ele sonha em matar um dragão e provar seu valor ao pai, apesar da descrença geral. Um dia, por acaso, ele acerta um dragão que jamais foi visto, chamado Fúria da Noite. Ao procurá-lo, no dia seguinte, Soluço não consegue matá-lo e acaba soltando-o. Só que ele perdeu parte da cauda e, com isso, não consegue mais voar. Soluço passa a trabalhar em um artefato que possa substituir a parte perdida e, aos poucos, se aproxima do dragão. Só que, paralelamente, Stoico autoriza que o filho participe do treino para dragões, cuja prova final é justamente matar um dos animais.",
+        "slogan": "Uma aventura vai mudar dois mundos",
+        "nota": 7.7,
+        "votantes": 8457,
+        "producao": [{
+            "produtora": "DreamWorks Animation",
+            "pais": "US"
+        }, {
+            "produtora": "Paramount",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1098",
+        "titulo": "Sherlock Holmes",
+        "data_de_lancamento": "2009-12-23",
+        "titulo_original": "Sherlock Holmes",
+        "generos": ["Ação", "Aventura", "Crime", "Mistério"],
+        "pagina_web": "http://sherlock-holmes-movie.warnerbros.com/",
+        "lingua_original": "en",
+        "resumo": "O excêntrico detetive consultor Sherlock Holmes e o doutor John Watson lutam para derrubar um novo inimigo e desvendar um plano mortal que poderia destruir a Inglaterra.",
+        "slogan": "Nada escapa dele.",
+        "nota": 7.2,
+        "votantes": 9808,
+        "producao": [{
+            "produtora": "Village Roadshow Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Silver Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Internationale Filmproduktion Blackbird Dritte",
+            "pais": ""
+        }, {
+            "produtora": "Wigram Productions",
+            "pais": ""
+        }, {
+            "produtora": "Warner Bros. Pictures",
+            "pais": "US"
+        }, {
+            "produtora": "Lin Pictures",
+            "pais": "US"
+        }]
+    }, {
+        "_id": "1099",
+        "titulo": "Meninas Malvadas",
+        "data_de_lancamento": "2004-04-30",
+        "titulo_original": "Mean Girls",
+        "generos": ["Comédia"],
+        "pagina_web": "http://www.meangirls.com/",
+        "lingua_original": "en",
+        "resumo": "Cady Heron (Lindsay Lohan) é uma garota que cresceu na África e sempre estudou em casa, nunca tendo ido a uma escola. Após retornar aos Estados Unidos com seus pais, ela se prepara para iniciar sua vida de estudante, se matriculando em uma escola pública. Logo Cady percebe como a língua venenosa de suas novas colegas pode prejudicar sua vida e, para piorar ainda mais sua situação, Cady se apaixona pelo garoto errado.",
+        "slogan": "Espevitadas, descoladas e Sapecas!",
+        "nota": 7.1,
+        "votantes": 5342,
+        "producao": [{
+            "produtora": "Broadway Video",
+            "pais": "US"
+        }, {
+            "produtora": "Paramount",
+            "pais": "US"
+        }, {
+            "produtora": "M.G. Films",
+            "pais": ""
+        }]
+    }]
+}

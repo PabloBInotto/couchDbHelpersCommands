@@ -1,0 +1,29 @@
+@couchdb = 127.0.0.1:5984
+@tasks = /tasks
+
+### get data
+GET {{tasks}}/_all_docs?include_docs=true
+Host: {{couchdb}}
+Authorization: Basic YWRtaW46Y291Y2hkYg==
+
+### post data
+POST {{tasks}}/_bulk_docs
+Host: {{couchdb}}
+Authorization: Basic YWRtaW46Y291Y2hkYg==
+Content-Type: application/json
+
+{}
+
+### post data
+PUT {{tasks}}/_ID?rev=_rev
+Host: {{couchdb}}
+Authorization: Basic YWRtaW46Y291Y2hkYg==
+Content-Type: application/json
+
+{}
+
+### post data
+DELETE {{tasks}}/_ID?rev=_rev
+Host: {{couchdb}}
+Authorization: Basic YWRtaW46Y291Y2hkYg==
+Content-Type: application/json

@@ -1,0 +1,22 @@
+### acessar bamco de dados
+GET http://admin:couchdb@localhost:5984
+
+### consultar a instancia do couchDB
+GET / HTTP/1.1
+Host: admin:couchdb@localhost:5984
+
+### consultar todas as bases de dados
+GET / HTTP/1.1
+Host: admin:couchdb@localhost:5984/_all_dbs
+
+### consultar base de dados especifica
+GET / HTTP/1.1
+Host: admin:couchdb@localhost:5984/contacts
+
+### consultar o conteudo de um banco de dados
+GET / HTTP/1.1
+Host: admin:couchdb@localhost:5984/contacts/_all_docs
+
+### consultar o conteudo de um banco de dados
+GET / HTTP/1.1
+Host: admin:couchdb@localhost:5984/contacts/_all_docs?include_docs=true

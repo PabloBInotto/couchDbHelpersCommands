@@ -1,0 +1,8 @@
+@couchdb = http://admin:couchdb@127.0.0.1:5984
+
+### criar um id
+GET {{couchdb}}/_uuids
+
+
+### criar varios ids
+GET {{couchdb}}/_uuids?count=10

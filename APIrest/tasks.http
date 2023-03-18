@@ -1,0 +1,60 @@
+### variaveis
+@tasks = http://admin:couchdb@localhost:5984/tasks
+
+### criar base de dados
+PUT {{tasks}}
+###
+POST {{tasks}}/_bulk_docs
+Content-Type: application/json
+
+< ./tasks.json
+
+###
+GET {{tasks}}/_all_docs?include_docs=true
+
+### atualizar em massa
+POST {{tasks}}/_bulk_docs
+Content-Type: application/json
+
+< ./update_tasks.json
+
+### verificar documento excluido
+GET {{tasks}}/7d381a6a461e332b6f632afa0400864b?_rev=2-4d1280441f6bafc5eafbdafeaf459164"
+### anexa lista de iens a serm comprados
+PUT {{tasks}}/7d381a6a461e332b6f632afa04007aab/lista-de-itens.txt
+Content-Type: text/plain
+If-Match: 2-57b2bacf95d7611d52f6aaf7e1e64b2b
+
+1. Laranja
+2. Banana
+3. Maçã
+4. Uva
+5. Alface
+6. Limão
+
+### consultar tarefa
+###
+GET {{tasks}}/7d381a6a461e332b6f632afa04007aab
+
+### anexa lista de iens a serm comprados
+PUT {{tasks}}/7d381a6a461e332b6f632afa04007aab/lista-de-itens-complemento.txt
+Content-Type: text/plain
+If-Match: 3-9cddbde6939f54cfc1e26a27115af9f8
+
+1. abacate
+2. Ichia
+3. Rucula
+
+### consultar as listas de itens e complemento
+GET {{tasks}}/7d381a6a461e332b6f632afa04007aab/lista-de-itens.txt
+
+### deletar lista de eitens complemento
+DELETE {{tasks}}/7d381a6a461e332b6f632afa04007aab/lista-de-itens-complemento.txt
+If-Match: 4-66e8992fca093797b1659d1995c76139
+
+### atualizar lista de compras
+PUT {{tasks}}//7d381a6a461e332b6f632afa04007aab/lista-de-itens.txt
+Content-Type: text/plain
+If-Match: 7-7dc2df0ed51403ddfc11cf9a3c014ea5
+
+< ./lista-decompras.txt

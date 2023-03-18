@@ -1,0 +1,21 @@
+{
+    "docs": [
+            {
+                "description": "petShop",
+                "active": true
+            },
+            {
+                "_id": "7d381a6a461e332b6f632afa04007aab",
+                "_rev": "1-6910963659e5a6f74afb3321f206a17c",
+                "description": "fazer feira",
+                "active": false
+            },
+            {
+                "_id": "7d381a6a461e332b6f632afa0400864b",
+                "_rev": "1-37d1e9418c25b0f1f6fde366e070b79e",
+                "description": "artigo couchDB",
+                "active": true,
+                "deleted": true
+            }
+    ]
+}

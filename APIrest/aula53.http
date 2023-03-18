@@ -1,0 +1,29 @@
+### variaveis de ambiente
+@protocolo = http
+@ip = 127.0.0.1
+@port = 5984
+@usuario = admin
+@senha = couchdb
+@couchdb = {{protocolo}}://{{usuario}}:{{senha}}@{{ip}}:{{port}}
+
+### ou 
+@server = http://admin:couchdb@localhost:5984
+
+### testando variaveis
+
+GET {{server}}
+
+### criar base de dados
+PUT {{server}}/testes
+
+### analizar banco
+GET {{server}}/testes
+
+### deletar banco
+DELETE {{server}}/testes
+
+### criar nova base de dados
+PUT {{server}}/produtos
+
+### analizar banco
+GET {{server}}/produtos

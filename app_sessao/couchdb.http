@@ -1,0 +1,17 @@
+# realizar o login
+POST /_session
+Host: 127.0.0.1:5984
+Content-Type: application/json
+
+{
+    "username": "admin",
+    "password": "couchdb"
+}
+
+### pegar informaçãoes da sessao
+GET /_session
+Host: 127.0.0.1:5984
+
+### deletar sessao
+DELETE /_session
+Host: 127.0.0.1:5984
